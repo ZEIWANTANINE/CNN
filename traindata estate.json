@@ -1,0 +1,2866 @@
+[
+  {
+    "query": "Tìm căn hộ 2 phòng ngủ gần đại học RMIT",
+    "positive_doc": "Cho thuê căn hộ Sunrise City, 2 phòng ngủ, nội thất đầy đủ, cách RMIT 300m, giá 9 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền dự án ở Củ Chi, giá rẻ, pháp lý rõ ràng.",
+      "Nhà phố mặt tiền đường Trường Chinh, Quận 12, diện tích 70m2."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn Quận 7",
+    "positive_doc": "Nhà nguyên căn 1 trệt 2 lầu, hẻm xe hơi đường Lê Văn Lương, Quận 7, giá 12 triệu.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, gần Bitexco, giá 8 triệu.",
+      "Đất thổ cư Bình Chánh, diện tích 100m2, giá 1 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà mặt tiền Quận Bình Thạnh dưới 5 tỷ",
+    "positive_doc": "Bán nhà mặt tiền đường Nguyễn Văn Đậu, Bình Thạnh, diện tích 55m2, giá 4.9 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Vinhomes Central Park, 15 triệu/tháng.",
+      "Bán đất vườn Long Thành, 600m2, sổ riêng."
+    ]
+  },
+  {
+    "query": "Tìm đất nền xây trọ ở Thủ Đức",
+    "positive_doc": "Đất nền thổ cư đường Linh Trung, Thủ Đức, gần đại học SPKT, tiện xây trọ, 80m2.",
+    "negative_docs": [
+      "Nhà phố Phú Nhuận, nội thất cao cấp.",
+      "Căn hộ chung cư cao cấp quận 2."
+    ]
+  },
+  {
+    "query": "Căn hộ giá rẻ gần khu công nghệ cao Quận 9",
+    "positive_doc": "Căn hộ 1 phòng ngủ, đường Lã Xuân Oai, cách khu CNC 1km, giá 6 triệu.",
+    "negative_docs": [
+      "Đất mặt tiền Long Thành, Đồng Nai.",
+      "Biệt thự Thảo Điền, hồ bơi riêng."
+    ]
+  },
+  {
+    "query": "Nhà trọ giá rẻ gần đại học Tôn Đức Thắng",
+    "positive_doc": "Phòng trọ 18m2, hẻm 793 Trần Xuân Soạn, cách TĐT 10 phút đi bộ, giá 2.5 triệu.",
+    "negative_docs": [
+      "Đất nền Đức Hòa, Long An, sổ riêng.",
+      "Nhà phố Quận 1, mặt tiền kinh doanh."
+    ]
+  },
+  {
+    "query": "Thuê chung cư gần Lotte Mart Quận 7",
+    "positive_doc": "Căn hộ Sky Garden, cách Lotte Mart 500m, 2PN, full nội thất, 10 triệu.",
+    "negative_docs": [
+      "Nhà nguyên căn Tân Phú, 1 trệt 1 lầu.",
+      "Đất nền đường số 4, Hiệp Bình Chánh."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà gần sân bay Tân Sơn Nhất",
+    "positive_doc": "Nhà nguyên căn đường Trường Sơn, cách sân bay 1km, tiện ở hoặc làm VP, 15 triệu.",
+    "negative_docs": [
+      "Chung cư Q.7, view hồ bơi.",
+      "Đất ruộng Bến Lức, 1.2 tỷ/300m2."
+    ]
+  },
+  {
+    "query": "Cần thuê phòng trọ Quận 3 dưới 3 triệu",
+    "positive_doc": "Phòng trọ 20m2, hẻm Cách Mạng Tháng Tám, Quận 3, giá 2.8 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ full nội thất, Quận 1, 12 triệu.",
+      "Đất nền khu dân cư Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Mua nhà sổ riêng gần KDC Vĩnh Lộc B",
+    "positive_doc": "Bán nhà cấp 4, sổ hồng riêng, gần Vĩnh Lộc B, diện tích 64m2, giá 1.8 tỷ.",
+    "negative_docs": [
+      "Phòng trọ Quận 4, giá sinh viên.",
+      "Căn hộ cao cấp Thủ Thiêm, view sông."
+    ]
+  },
+  {
+    "query": "Tìm căn hộ có 2 phòng ngủ gần đại học RMIT",
+    "positive_doc": "Cho thuê căn hộ Sunrise City, 2 phòng ngủ, nội thất đầy đủ, cách RMIT 300m, giá 9 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền dự án ở Củ Chi, giá rẻ, pháp lý rõ ràng.",
+      "Nhà phố mặt tiền đường Trường Chinh, Quận 12, diện tích 70m2."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn tại Quận 7",
+    "positive_doc": "Nhà nguyên căn 1 trệt 2 lầu, hẻm xe hơi đường Lê Văn Lương, Quận 7, giá 12 triệu.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, gần Bitexco, giá 8 triệu.",
+      "Đất thổ cư Bình Chánh, diện tích 100m2, giá 1 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà mặt tiền tại Quận Bình Thạnh giá dưới 5 tỷ",
+    "positive_doc": "Bán nhà mặt tiền đường Nguyễn Văn Đậu, Bình Thạnh, diện tích 55m2, giá 4.9 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Vinhomes Central Park, 15 triệu/tháng.",
+      "Bán đất vườn Long Thành, 600m2, sổ riêng."
+    ]
+  },
+  {
+    "query": "Tìm đất nền để xây phòng trọ tại Thủ Đức",
+    "positive_doc": "Đất nền thổ cư đường Linh Trung, Thủ Đức, gần đại học SPKT, tiện xây trọ, 80m2.",
+    "negative_docs": [
+      "Nhà phố Phú Nhuận, nội thất cao cấp.",
+      "Căn hộ chung cư cao cấp quận 2."
+    ]
+  },
+  {
+    "query": "Căn hộ giá phải chăng gần khu công nghệ cao Quận 9",
+    "positive_doc": "Căn hộ 1 phòng ngủ, đường Lã Xuân Oai, cách khu CNC 1km, giá 6 triệu.",
+    "negative_docs": [
+      "Đất mặt tiền Long Thành, Đồng Nai.",
+      "Biệt thự Thảo Điền, hồ bơi riêng."
+    ]
+  },
+  {
+    "query": "Nhà trọ giá cả phải chăng gần đại học Tôn Đức Thắng",
+    "positive_doc": "Phòng trọ 18m2, hẻm 793 Trần Xuân Soạn, cách TĐT 10 phút đi bộ, giá 2.5 triệu.",
+    "negative_docs": [
+      "Đất nền Đức Hòa, Long An, sổ riêng.",
+      "Nhà phố Quận 1, mặt tiền kinh doanh."
+    ]
+  },
+  {
+    "query": "Thuê chung cư gần siêu thị Lotte Mart Quận 7",
+    "positive_doc": "Căn hộ Sky Garden, cách Lotte Mart 500m, 2PN, full nội thất, 10 triệu.",
+    "negative_docs": [
+      "Nhà nguyên căn Tân Phú, 1 trệt 1 lầu.",
+      "Đất nền đường số 4, Hiệp Bình Chánh."
+    ]
+  },
+  {
+    "query": "Tìm nhà cho thuê gần sân bay Tân Sơn Nhất",
+    "positive_doc": "Nhà nguyên căn đường Trường Sơn, cách sân bay 1km, tiện ở hoặc làm VP, 15 triệu.",
+    "negative_docs": [
+      "Chung cư Q.7, view hồ bơi.",
+      "Đất ruộng Bến Lức, 1.2 tỷ/300m2."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ Quận 3 với giá dưới 3 triệu",
+    "positive_doc": "Phòng trọ 20m2, hẻm Cách Mạng Tháng Tám, Quận 3, giá 2.8 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ full nội thất, Quận 1, 12 triệu.",
+      "Đất nền khu dân cư Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Mua nhà đã có sổ đỏ gần KDC Vĩnh Lộc B",
+    "positive_doc": "Bán nhà cấp 4, sổ hồng riêng, gần Vĩnh Lộc B, diện tích 64m2, giá 1.8 tỷ.",
+    "negative_docs": [
+      "Phòng trọ Quận 4, giá sinh viên.",
+      "Căn hộ cao cấp Thủ Thiêm, view sông."
+    ]
+  },
+  {
+    "query": "Cần căn hộ 2 phòng ngủ gần trường RMIT",
+    "positive_doc": "Cho thuê căn hộ Sunrise City, 2 phòng ngủ, nội thất đầy đủ, cách RMIT 300m, giá 9 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền dự án ở Củ Chi, giá rẻ, pháp lý rõ ràng.",
+      "Nhà phố mặt tiền đường Trường Chinh, Quận 12, diện tích 70m2."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn tại Quận 7 Hồ Chí Minh",
+    "positive_doc": "Nhà nguyên căn 1 trệt 2 lầu, hẻm xe hơi đường Lê Văn Lương, Quận 7, giá 12 triệu.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, gần Bitexco, giá 8 triệu.",
+      "Đất thổ cư Bình Chánh, diện tích 100m2, giá 1 tỷ."
+    ]
+  },
+  {
+    "query": "Nhà phố mặt tiền Bình Thạnh giá dưới 5 tỷ",
+    "positive_doc": "Bán nhà mặt tiền đường Nguyễn Văn Đậu, Bình Thạnh, diện tích 55m2, giá 4.9 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Vinhomes Central Park, 15 triệu/tháng.",
+      "Bán đất vườn Long Thành, 600m2, sổ riêng."
+    ]
+  },
+  {
+    "query": "Đất nền tiện xây nhà trọ ở TP Thủ Đức",
+    "positive_doc": "Đất nền thổ cư đường Linh Trung, Thủ Đức, gần đại học SPKT, tiện xây trọ, 80m2.",
+    "negative_docs": [
+      "Nhà phố Phú Nhuận, nội thất cao cấp.",
+      "Căn hộ chung cư cao cấp quận 2."
+    ]
+  },
+  {
+    "query": "Căn hộ chung cư giá rẻ gần khu công nghệ cao Q9",
+    "positive_doc": "Căn hộ 1 phòng ngủ, đường Lã Xuân Oai, cách khu CNC 1km, giá 6 triệu.",
+    "negative_docs": [
+      "Đất mặt tiền Long Thành, Đồng Nai.",
+      "Biệt thự Thảo Điền, hồ bơi riêng."
+    ]
+  },
+  {
+    "query": "Phòng trọ giá tốt gần trường Tôn Đức Thắng",
+    "positive_doc": "Phòng trọ 18m2, hẻm 793 Trần Xuân Soạn, cách TĐT 10 phút đi bộ, giá 2.5 triệu.",
+    "negative_docs": [
+      "Đất nền Đức Hòa, Long An, sổ riêng.",
+      "Nhà phố Quận 1, mặt tiền kinh doanh."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ chung cư gần Lotte Mart Q7",
+    "positive_doc": "Căn hộ Sky Garden, cách Lotte Mart 500m, 2PN, full nội thất, 10 triệu.",
+    "negative_docs": [
+      "Nhà nguyên căn Tân Phú, 1 trệt 1 lầu.",
+      "Đất nền đường số 4, Hiệp Bình Chánh."
+    ]
+  },
+  {
+    "query": "Tìm nhà thuê gần sân bay Tân Sơn Nhất Hồ Chí Minh",
+    "positive_doc": "Nhà nguyên căn đường Trường Sơn, cách sân bay 1km, tiện ở hoặc làm VP, 15 triệu.",
+    "negative_docs": [
+      "Chung cư Q.7, view hồ bơi.",
+      "Đất ruộng Bến Lức, 1.2 tỷ/300m2."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 3 giá dưới 3 triệu đồng",
+    "positive_doc": "Phòng trọ 20m2, hẻm Cách Mạng Tháng Tám, Quận 3, giá 2.8 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ full nội thất, Quận 1, 12 triệu.",
+      "Đất nền khu dân cư Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Mua nhà có sổ hồng riêng gần KDC Vĩnh Lộc B",
+    "positive_doc": "Bán nhà cấp 4, sổ hồng riêng, gần Vĩnh Lộc B, diện tích 64m2, giá 1.8 tỷ.",
+    "negative_docs": [
+      "Phòng trọ Quận 4, giá sinh viên.",
+      "Căn hộ cao cấp Thủ Thiêm, view sông."
+    ]
+  },
+  {
+    "query": "Thuê văn phòng Quận 1 giá tốt",
+    "positive_doc": "Cho thuê văn phòng hạng B đường Hai Bà Trưng, Quận 1, diện tích 80m2, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ Officetel Quận 4, view sông.",
+      "Đất nền khu dân cư mới Bình Dương."
+    ]
+  },
+  {
+    "query": "Đất nông nghiệp Củ Chi diện tích lớn",
+    "positive_doc": "Bán đất vườn Củ Chi, xã Thái Mỹ, 5000m2, đường xe hơi vào được, giá 1.5 tỷ/công.",
+    "negative_docs": [
+      "Cho thuê nhà trọ gần chợ Bến Thành.",
+      "Căn hộ cao cấp khu đô thị Phú Mỹ Hưng."
+    ]
+  },
+  {
+    "query": "Mua biệt thự Quận 2 có hồ bơi",
+    "positive_doc": "Bán biệt thự Thảo Điền, Quận 2, có hồ bơi riêng, 4 phòng ngủ, diện tích 300m2, giá 35 tỷ.",
+    "negative_docs": [
+      "Căn hộ 2PN Vinhomes Central Park, giá thuê 20 triệu.",
+      "Đất nền dự án Long An, sổ hồng."
+    ]
+  },
+  {
+    "query": "Cần tìm nhà phố cho thuê Gò Vấp",
+    "positive_doc": "Cho thuê nhà phố đường Phan Văn Trị, Gò Vấp, 1 trệt 2 lầu, 3 phòng ngủ, giá 18 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Chánh, gần KCN.",
+      "Căn hộ studio Quận 4, full nội thất."
+    ]
+  },
+  {
+    "query": "Đất thổ cư Bình Dương gần KCN",
+    "positive_doc": "Bán đất thổ cư Thuận An, Bình Dương, gần KCN VSIP 1, diện tích 120m2, giá 2 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Quận 3, 1 phòng ngủ.",
+      "Bán nhà nguyên căn Quận 10."
+    ]
+  },
+  {
+    "query": "Căn hộ dịch vụ Quận 1 có bếp",
+    "positive_doc": "Cho thuê căn hộ dịch vụ đường Nguyễn Thị Minh Khai, Quận 1, 1PN, có bếp riêng, giá 10 triệu/tháng.",
+    "negative_docs": [
+      "Nhà trọ sinh viên Gò Vấp.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm xe hơi Quận 10 dưới 8 tỷ",
+    "positive_doc": "Bán nhà hẻm xe hơi đường Thành Thái, Quận 10, 1 trệt 2 lầu, diện tích 45m2, giá 7.5 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Vinhomes Grand Park.",
+      "Bán đất vườn Đồng Nai, giá 1 tỷ."
+    ]
+  },
+  {
+    "query": "Đất mặt tiền kinh doanh Quận 12",
+    "positive_doc": "Bán đất mặt tiền đường Nguyễn Ảnh Thủ, Quận 12, tiện kinh doanh, diện tích 100m2, giá 9 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 7.",
+      "Đất thổ cư Bến Lức, Long An."
+    ]
+  },
+  {
+    "query": "Thuê kho xưởng ở Bình Chánh",
+    "positive_doc": "Cho thuê kho xưởng KCN Vĩnh Lộc, Bình Chánh, diện tích 500m2, có văn phòng, giá 30 triệu/tháng.",
+    "negative_docs": [
+      "Nhà ở xã hội Quận 12.",
+      "Bán căn hộ The Sun Avenue."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần chợ Bến Thành giá sinh viên",
+    "positive_doc": "Phòng trọ 15m2, hẻm Lê Thánh Tôn, Quận 1, gần chợ Bến Thành, giá 3.5 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ 3PN Quận 7, view sông.",
+      "Đất nền sổ đỏ Bình Dương."
+    ]
+  },
+  {
+    "query": "Mua nhà cấp 4 Hóc Môn có sổ",
+    "positive_doc": "Bán nhà cấp 4 Hóc Môn, xã Xuân Thới Thượng, sổ hồng riêng, diện tích 80m2, giá 2.2 tỷ.",
+    "negative_docs": [
+      "Thuê nhà nguyên căn Phú Nhuận.",
+      "Căn hộ Masteri Thảo Điền."
+    ]
+  },
+  {
+    "query": "Cần thuê căn hộ 1 phòng ngủ Quận 4",
+    "positive_doc": "Cho thuê căn hộ Icon 56, Quận 4, 1PN, full nội thất, giá 11 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Long An, giá 800 triệu.",
+      "Nhà phố mặt tiền Quận 11."
+    ]
+  },
+  {
+    "query": "Đất nền khu dân cư Bình Chánh mới",
+    "positive_doc": "Bán đất nền KDC Phong Phú 4, Bình Chánh, 100m2, sổ riêng, giá 2.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 5.",
+      "Nhà phố Gò Vấp, tiện kinh doanh."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm Quận Tân Bình giá dưới 6 tỷ",
+    "positive_doc": "Bán nhà hẻm đường Hoàng Hoa Thám, Tân Bình, 1 trệt 1 lầu, diện tích 50m2, giá 5.8 tỷ.",
+    "negative_docs": [
+      "Cho thuê văn phòng Quận 3.",
+      "Đất nền Đồng Nai, khu dân cư."
+    ]
+  },
+  {
+    "query": "Thuê biệt thự Quận 9 có sân vườn",
+    "positive_doc": "Cho thuê biệt thự compound Valora Fuji, Quận 9, 3PN, có sân vườn, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ Masteri An Phú.",
+      "Đất nông nghiệp Bình Phước."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 10 cho sinh viên",
+    "positive_doc": "Phòng trọ 18m2, hẻm Sư Vạn Hạnh, Quận 10, gần trường học, giá 2.7 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 2, tiện ở.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Căn hộ cao cấp Quận Bình Thạnh",
+    "positive_doc": "Cho thuê căn hộ Vinhomes Central Park, 2PN, view sông, full nội thất, giá 22 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, gần chợ.",
+      "Nhà phố Tân Phú, giá 7 tỷ."
+    ]
+  },
+  {
+    "query": "Mua đất nền dự án Long Thành",
+    "positive_doc": "Bán đất nền dự án Airport City, Long Thành, Đồng Nai, 100m2, sổ hồng, giá 1.8 tỷ.",
+    "negative_docs": [
+      "Thuê nhà phố Quận 1, mặt tiền.",
+      "Căn hộ giá rẻ Quận 8."
+    ]
+  },
+  {
+    "query": "Nhà nguyên căn Quận 12 giá dưới 10 triệu",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Hà Huy Giáp, Quận 12, 1 trệt 1 lầu, giá 9 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ The Ascent.",
+      "Đất nông nghiệp Bình Dương."
+    ]
+  },
+  {
+    "query": "Thuê mặt bằng kinh doanh Quận Phú Nhuận",
+    "positive_doc": "Cho thuê mặt bằng đường Phan Đăng Lưu, Phú Nhuận, diện tích 60m2, tiện kinh doanh, giá 30 triệu/tháng.",
+    "negative_docs": [
+      "Nhà trọ Quận Thủ Đức.",
+      "Bán đất nền Long An, giá tốt."
+    ]
+  },
+  {
+    "query": "Cần mua nhà mặt tiền Quận 6",
+    "positive_doc": "Bán nhà mặt tiền đường Hậu Giang, Quận 6, tiện kinh doanh, 1 trệt 2 lầu, giá 12 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Celadon City.",
+      "Đất nền dự án Biên Hòa."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần đại học Nguyễn Tất Thành",
+    "positive_doc": "Phòng trọ 16m2, hẻm Hoàng Diệu, Quận 4, cách ĐH Nguyễn Tất Thành 500m, giá 2.6 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Bình Thạnh, giá cao.",
+      "Đất thổ cư Long An, giá 1.5 tỷ."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ 3 phòng ngủ Quận 7",
+    "positive_doc": "Cho thuê căn hộ Happy Valley, Quận 7, 3PN, view sân golf, full nội thất, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Dương, gần chợ.",
+      "Nhà phố Tân Bình, giá 9 tỷ."
+    ]
+  },
+  {
+    "query": "Đất nền sổ đỏ Long An giá dưới 1 tỷ",
+    "positive_doc": "Bán đất nền Đức Hòa, Long An, 80m2, sổ đỏ riêng, giá 850 triệu.",
+    "negative_docs": [
+      "Cho thuê căn hộ Saigon Pearl.",
+      "Nhà phố Gò Vấp, hẻm cụt."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm ba gác Quận 5",
+    "positive_doc": "Bán nhà hẻm ba gác đường Trần Hưng Đạo, Quận 5, 1 trệt 1 lầu, diện tích 30m2, giá 4 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, giá 15 triệu.",
+      "Đất nông nghiệp Cần Giờ."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà xưởng nhỏ Thủ Đức",
+    "positive_doc": "Cho thuê nhà xưởng nhỏ đường Phạm Văn Đồng, Thủ Đức, diện tích 150m2, giá 15 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Nhơn Trạch, Đồng Nai.",
+      "Căn hộ 2PN Quận 10."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ có máy lạnh Quận Bình Thạnh",
+    "positive_doc": "Phòng trọ 20m2, hẻm Nơ Trang Long, Bình Thạnh, có máy lạnh, giá 3.2 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 8, giá rẻ.",
+      "Đất thổ cư Bình Dương, giá 1.2 tỷ."
+    ]
+  },
+  {
+    "query": "Mua căn hộ studio Quận 4",
+    "positive_doc": "Bán căn hộ The Tresor, Quận 4, studio, full nội thất, view sông, giá 2.8 tỷ.",
+    "negative_docs": [
+      "Cho thuê nhà phố Quận 1, 3 lầu.",
+      "Đất nền KDC Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Đất nền thổ cư Biên Hòa Đồng Nai",
+    "positive_doc": "Bán đất nền Biên Hòa, Đồng Nai, phường An Bình, 100m2, sổ hồng, giá 2.1 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, giá 9 triệu.",
+      "Nhà phố Tân Bình, hẻm lớn."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn có sân thượng Quận 1",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Nguyễn Trãi, Quận 1, 1 trệt 2 lầu có sân thượng, giá 40 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, gần chợ.",
+      "Căn hộ 1PN Quận 7, view hồ bơi."
+    ]
+  },
+  {
+    "query": "Cần mua đất vườn Cần Giờ",
+    "positive_doc": "Bán đất vườn Cần Giờ, xã Long Hòa, 1000m2, có thổ cư, giá 2 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Masteri An Phú, 2PN.",
+      "Nhà phố Quận 12, giá 8 tỷ."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 11 gần chợ",
+    "positive_doc": "Phòng trọ 18m2, hẻm Lạc Long Quân, Quận 11, gần chợ Bình Thới, giá 2.9 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 2, giá 10 triệu.",
+      "Đất nền Nhơn Trạch, giá 1.5 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà phố Quận 8 có sân vườn",
+    "positive_doc": "Bán nhà phố đường Tạ Quang Bửu, Quận 8, có sân vườn nhỏ, 1 trệt 2 lầu, giá 6.5 tỷ.",
+    "negative_docs": [
+      "Cho thuê văn phòng Quận 5.",
+      "Đất nông nghiệp Long An, diện tích lớn."
+    ]
+  },
+  {
+    "query": "Căn hộ giá rẻ Quận 8",
+    "positive_doc": "Cho thuê căn hộ City Gate, Quận 8, 2PN, nội thất cơ bản, giá 7 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Chánh, sổ riêng.",
+      "Nhà phố Gò Vấp, mặt tiền."
+    ]
+  },
+  {
+    "query": "Đất mặt tiền Quốc lộ 1A Thủ Đức",
+    "positive_doc": "Bán đất mặt tiền Quốc lộ 1A, Thủ Đức, tiện kinh doanh, 150m2, giá 15 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Estella Heights.",
+      "Nhà trọ Quận 9, giá sinh viên."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ 1PN gần trung tâm Quận 1",
+    "positive_doc": "Cho thuê căn hộ Vinhomes Golden River, 1PN, view sông, full nội thất, giá 18 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, sổ đỏ.",
+      "Nhà phố Bình Thạnh, hẻm lớn."
+    ]
+  },
+  {
+    "query": "Mua nhà cấp 4 Bình Chánh gần chợ",
+    "positive_doc": "Bán nhà cấp 4 Bình Chánh, xã Vĩnh Lộc A, gần chợ Vĩnh Lộc, 70m2, giá 2.1 tỷ.",
+    "negative_docs": [
+      "Cho thuê nhà nguyên căn Quận 7.",
+      "Căn hộ dịch vụ Quận 1, giá cao."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ Quận 6 giá dưới 2.5 triệu",
+    "positive_doc": "Phòng trọ 15m2, hẻm Minh Phụng, Quận 6, giá 2.3 triệu/tháng.",
+    "negative_docs": [
+      "Nhà phố Quận 10, mặt tiền.",
+      "Đất nền Đồng Nai, khu dân cư."
+    ]
+  },
+  {
+    "query": "Cần tìm đất nền xây nhà vườn Đồng Nai",
+    "positive_doc": "Bán đất nền Long Thành, Đồng Nai, diện tích 500m2, tiện xây nhà vườn, giá 2.5 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ The Sun Avenue, 2PN.",
+      "Nhà trọ Quận Phú Nhuận."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm cụt Quận 3",
+    "positive_doc": "Bán nhà hẻm cụt đường Nguyễn Đình Chiểu, Quận 3, 1 trệt 1 lầu, diện tích 35m2, giá 6 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 7, view hồ bơi.",
+      "Đất thổ cư Bình Phước."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ officetel Quận 4",
+    "positive_doc": "Cho thuê căn hộ officetel Saigon Royal, Quận 4, diện tích 30m2, full nội thất, giá 9 triệu/tháng.",
+    "negative_docs": [
+      "Bán nhà phố Quận 1, mặt tiền.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà ở xã hội Thủ Đức",
+    "positive_doc": "Cho thuê căn hộ nhà ở xã hội Thủ Đức, P. Linh Trung, 2PN, giá 4 triệu/tháng.",
+    "negative_docs": [
+      "Bán biệt thự Thảo Điền.",
+      "Đất nền dự án Long Thành."
+    ]
+  },
+  {
+    "query": "Mua đất nền ven sông Nhơn Trạch",
+    "positive_doc": "Bán đất nền ven sông Đồng Nai, Nhơn Trạch, diện tích 120m2, sổ hồng, giá 1.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, gần chợ.",
+      "Nhà phố Gò Vấp, giá 8 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm nhà nguyên căn Quận 11 giá phải chăng",
+    "positive_doc": "Cho thuê nhà nguyên căn hẻm Lạc Long Quân, Quận 11, 1 trệt 1 lầu, giá 10 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, 1000m2.",
+      "Căn hộ 3PN Quận 7, view sông."
+    ]
+  },
+  {
+    "query": "Phòng trọ có gác lửng Quận 12",
+    "positive_doc": "Phòng trọ 25m2, đường Phan Văn Hớn, Quận 12, có gác lửng, giá 2.9 triệu/tháng.",
+    "negative_docs": [
+      "Nhà phố Tân Bình, giá cao.",
+      "Đất nông nghiệp Bình Phước, giá rẻ."
+    ]
+  },
+  {
+    "query": "Căn hộ 2 phòng ngủ gần RMIT",
+    "positive_doc": "Căn hộ Sunrise City, 2PN, nội thất đầy đủ, cách RMIT 300m, 9 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Củ Chi, giá rẻ.",
+      "Nhà phố Trường Chinh, Q12."
+    ]
+  },
+  {
+    "query": "Nhà nguyên căn thuê Quận 7",
+    "positive_doc": "Nhà nguyên căn 1 trệt 2 lầu, hẻm xe hơi Lê Văn Lương, Q7, 12 triệu.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Q1, gần Bitexco.",
+      "Đất thổ cư Bình Chánh."
+    ]
+  },
+  {
+    "query": "Mua nhà mặt tiền Bình Thạnh dưới 5 tỷ đồng",
+    "positive_doc": "Nhà mặt tiền Nguyễn Văn Đậu, Bình Thạnh, 55m2, 4.9 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Vinhomes Central Park.",
+      "Bán đất vườn Long Thành."
+    ]
+  },
+  {
+    "query": "Đất nền xây phòng trọ Thủ Đức",
+    "positive_doc": "Đất thổ cư Linh Trung, Thủ Đức, gần SPKT, tiện xây trọ, 80m2.",
+    "negative_docs": [
+      "Nhà phố Phú Nhuận.",
+      "Căn hộ chung cư Q2."
+    ]
+  },
+  {
+    "query": "Chung cư giá rẻ gần khu công nghệ cao Quận 9",
+    "positive_doc": "Căn hộ 1PN, Lã Xuân Oai, cách khu CNC 1km, 6 triệu.",
+    "negative_docs": [
+      "Đất mặt tiền Long Thành.",
+      "Biệt thự Thảo Điền."
+    ]
+  },
+  {
+    "query": "Phòng trọ giá rẻ gần Tôn Đức Thắng",
+    "positive_doc": "Phòng trọ 18m2, hẻm 793 Trần Xuân Soạn, cách TĐT 10 phút, 2.5 triệu.",
+    "negative_docs": [
+      "Đất nền Đức Hòa, Long An.",
+      "Nhà phố Q1, mặt tiền."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ chung cư gần Lotte Mart Q7",
+    "positive_doc": "Căn hộ Sky Garden, cách Lotte Mart 500m, 2PN, full nội thất, 10 triệu.",
+    "negative_docs": [
+      "Nhà nguyên căn Tân Phú.",
+      "Đất nền đường số 4, Hiệp Bình Chánh."
+    ]
+  },
+  {
+    "query": "Nhà cho thuê gần sân bay Tân Sơn Nhất",
+    "positive_doc": "Nhà nguyên căn Trường Sơn, cách sân bay 1km, tiện ở/VP, 15 triệu.",
+    "negative_docs": [
+      "Chung cư Q7, view hồ bơi.",
+      "Đất ruộng Bến Lức."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 3 dưới 3 triệu",
+    "positive_doc": "Phòng trọ 20m2, hẻm CMT8, Q3, 2.8 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ full nội thất Q1.",
+      "Đất nền KDC Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Nhà sổ riêng gần KDC Vĩnh Lộc B",
+    "positive_doc": "Nhà cấp 4, sổ hồng riêng, gần Vĩnh Lộc B, 64m2, 1.8 tỷ.",
+    "negative_docs": [
+      "Phòng trọ Q4, giá sinh viên.",
+      "Căn hộ cao cấp Thủ Thiêm."
+    ]
+  },
+  {
+    "query": "Văn phòng cho thuê Quận 1",
+    "positive_doc": "Văn phòng hạng B Hai Bà Trưng, Q1, 80m2, 25 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ Officetel Q4.",
+      "Đất nền KDC mới Bình Dương."
+    ]
+  },
+  {
+    "query": "Đất nông nghiệp diện tích lớn Củ Chi",
+    "positive_doc": "Đất vườn Củ Chi, Thái Mỹ, 5000m2, đường xe hơi, 1.5 tỷ/công.",
+    "negative_docs": [
+      "Nhà trọ gần chợ Bến Thành.",
+      "Căn hộ cao cấp Phú Mỹ Hưng."
+    ]
+  },
+  {
+    "query": "Biệt thự Quận 2 có hồ bơi riêng",
+    "positive_doc": "Biệt thự Thảo Điền, Q2, có hồ bơi, 4PN, 300m2, 35 tỷ.",
+    "negative_docs": [
+      "Căn hộ 2PN Vinhomes Central Park.",
+      "Đất nền dự án Long An."
+    ]
+  },
+  {
+    "query": "Nhà phố cho thuê Gò Vấp",
+    "positive_doc": "Nhà phố Phan Văn Trị, Gò Vấp, 1 trệt 2 lầu, 3PN, 18 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Bình Chánh, gần KCN.",
+      "Căn hộ studio Q4."
+    ]
+  },
+  {
+    "query": "Đất thổ cư gần KCN Bình Dương",
+    "positive_doc": "Đất thổ cư Thuận An, Bình Dương, gần KCN VSIP 1, 120m2, 2 tỷ.",
+    "negative_docs": [
+      "Căn hộ Q3, 1PN.",
+      "Nhà nguyên căn Q10."
+    ]
+  },
+  {
+    "query": "Căn hộ dịch vụ Quận 1 có bếp đầy đủ",
+    "positive_doc": "Căn hộ dịch vụ Nguyễn Thị Minh Khai, Q1, 1PN, có bếp riêng, 10 triệu/tháng.",
+    "negative_docs": [
+      "Nhà trọ sinh viên Gò Vấp.",
+      "Đất nền Long An."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm xe hơi Q10 dưới 8 tỷ",
+    "positive_doc": "Nhà hẻm xe hơi Thành Thái, Q10, 1 trệt 2 lầu, 45m2, 7.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ Vinhomes Grand Park.",
+      "Đất vườn Đồng Nai."
+    ]
+  },
+  {
+    "query": "Đất mặt tiền kinh doanh Q12",
+    "positive_doc": "Đất mặt tiền Nguyễn Ảnh Thủ, Q12, tiện kinh doanh, 100m2, 9 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Q7.",
+      "Đất thổ cư Bến Lức."
+    ]
+  },
+  {
+    "query": "Kho xưởng cho thuê Bình Chánh",
+    "positive_doc": "Kho xưởng KCN Vĩnh Lộc, Bình Chánh, 500m2, có VP, 30 triệu/tháng.",
+    "negative_docs": [
+      "Nhà ở xã hội Q12.",
+      "Căn hộ The Sun Avenue."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần Bến Thành giá sinh viên",
+    "positive_doc": "Phòng trọ 15m2, hẻm Lê Thánh Tôn, Q1, gần chợ Bến Thành, 3.5 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ 3PN Q7.",
+      "Đất nền sổ đỏ Bình Dương."
+    ]
+  },
+  {
+    "query": "Nhà cấp 4 có sổ Hóc Môn",
+    "positive_doc": "Nhà cấp 4 Hóc Môn, Xuân Thới Thượng, sổ hồng riêng, 80m2, 2.2 tỷ.",
+    "negative_docs": [
+      "Nhà nguyên căn Phú Nhuận.",
+      "Căn hộ Masteri Thảo Điền."
+    ]
+  },
+  {
+    "query": "Căn hộ 1 phòng ngủ cho thuê Q4",
+    "positive_doc": "Căn hộ Icon 56, Q4, 1PN, full nội thất, 11 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Long An.",
+      "Nhà phố mặt tiền Q11."
+    ]
+  },
+  {
+    "query": "Đất nền khu dân cư mới Bình Chánh",
+    "positive_doc": "Đất nền KDC Phong Phú 4, Bình Chánh, 100m2, sổ riêng, 2.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Q5.",
+      "Nhà phố Gò Vấp."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm Tân Bình dưới 6 tỷ",
+    "positive_doc": "Nhà hẻm Hoàng Hoa Thám, Tân Bình, 1 trệt 1 lầu, 50m2, 5.8 tỷ.",
+    "negative_docs": [
+      "Văn phòng Q3.",
+      "Đất nền Đồng Nai."
+    ]
+  },
+  {
+    "query": "Biệt thự cho thuê Quận 9 có sân vườn",
+    "positive_doc": "Biệt thự Valora Fuji, Q9, 3PN, có sân vườn, 25 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ Masteri An Phú.",
+      "Đất nông nghiệp Bình Phước."
+    ]
+  },
+  {
+    "query": "Phòng trọ sinh viên Quận 10",
+    "positive_doc": "Phòng trọ 18m2, hẻm Sư Vạn Hạnh, Q10, gần trường, 2.7 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Q2.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Căn hộ cao cấp Bình Thạnh",
+    "positive_doc": "Căn hộ Vinhomes Central Park, 2PN, view sông, full nội thất, 22 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Củ Chi.",
+      "Nhà phố Tân Phú."
+    ]
+  },
+  {
+    "query": "Đất nền dự án Long Thành Đồng Nai",
+    "positive_doc": "Đất nền Airport City, Long Thành, Đồng Nai, 100m2, sổ hồng, 1.8 tỷ.",
+    "negative_docs": [
+      "Nhà phố Q1, mặt tiền.",
+      "Căn hộ giá rẻ Q8."
+    ]
+  },
+  {
+    "query": "Nhà nguyên căn Q12 dưới 10 triệu",
+    "positive_doc": "Nhà nguyên căn Hà Huy Giáp, Q12, 1 trệt 1 lầu, 9 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ The Ascent.",
+      "Đất nông nghiệp Bình Dương."
+    ]
+  },
+  {
+    "query": "Mặt bằng kinh doanh cho thuê Phú Nhuận",
+    "positive_doc": "Mặt bằng Phan Đăng Lưu, Phú Nhuận, 60m2, tiện kinh doanh, 30 triệu/tháng.",
+    "negative_docs": [
+      "Nhà trọ Thủ Đức.",
+      "Đất nền Long An."
+    ]
+  },
+  {
+    "query": "Nhà mặt tiền Quận 6 cần mua",
+    "positive_doc": "Nhà mặt tiền Hậu Giang, Q6, tiện kinh doanh, 1 trệt 2 lầu, 12 tỷ.",
+    "negative_docs": [
+      "Căn hộ Celadon City.",
+      "Đất nền dự án Biên Hòa."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần đại học Nguyễn Tất Thành",
+    "positive_doc": "Phòng trọ 16m2, hẻm Hoàng Diệu, Q4, cách ĐH Nguyễn Tất Thành 500m, 2.6 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Bình Thạnh.",
+      "Đất thổ cư Long An."
+    ]
+  },
+  {
+    "query": "Căn hộ 3 phòng ngủ cho thuê Q7",
+    "positive_doc": "Căn hộ Happy Valley, Q7, 3PN, view sân golf, full nội thất, 25 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Bình Dương.",
+      "Nhà phố Tân Bình."
+    ]
+  },
+  {
+    "query": "Đất nền sổ đỏ Long An dưới 1 tỷ",
+    "positive_doc": "Đất nền Đức Hòa, Long An, 80m2, sổ đỏ riêng, 850 triệu.",
+    "negative_docs": [
+      "Căn hộ Saigon Pearl.",
+      "Nhà phố Gò Vấp."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm ba gác Q5",
+    "positive_doc": "Nhà hẻm ba gác Trần Hưng Đạo, Q5, 1 trệt 1 lầu, 30m2, 4 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Q1.",
+      "Đất nông nghiệp Cần Giờ."
+    ]
+  },
+  {
+    "query": "Nhà xưởng nhỏ cho thuê Thủ Đức",
+    "positive_doc": "Nhà xưởng nhỏ Phạm Văn Đồng, Thủ Đức, 150m2, 15 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Nhơn Trạch.",
+      "Căn hộ 2PN Q10."
+    ]
+  },
+  {
+    "query": "Phòng trọ có máy lạnh Bình Thạnh",
+    "positive_doc": "Phòng trọ 20m2, hẻm Nơ Trang Long, Bình Thạnh, có máy lạnh, 3.2 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Q8.",
+      "Đất thổ cư Bình Dương."
+    ]
+  },
+  {
+    "query": "Căn hộ studio mua Quận 4",
+    "positive_doc": "Căn hộ The Tresor, Q4, studio, full nội thất, view sông, 2.8 tỷ.",
+    "negative_docs": [
+      "Nhà phố Q1.",
+      "Đất nền KDC Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Đất thổ cư Biên Hòa",
+    "positive_doc": "Đất nền Biên Hòa, Đồng Nai, An Bình, 100m2, sổ hồng, 2.1 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Q3.",
+      "Nhà phố Tân Bình."
+    ]
+  },
+  {
+    "query": "Nhà nguyên căn có sân thượng Quận 1 cho thuê",
+    "positive_doc": "Nhà nguyên căn Nguyễn Trãi, Q1, 1 trệt 2 lầu có sân thượng, 40 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Củ Chi.",
+      "Căn hộ 1PN Q7."
+    ]
+  },
+  {
+    "query": "Đất vườn Cần Giờ cần mua",
+    "positive_doc": "Đất vườn Cần Giờ, Long Hòa, 1000m2, có thổ cư, 2 tỷ.",
+    "negative_docs": [
+      "Căn hộ Masteri An Phú.",
+      "Nhà phố Q12."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần chợ Quận 11",
+    "positive_doc": "Phòng trọ 18m2, hẻm Lạc Long Quân, Q11, gần chợ Bình Thới, 2.9 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Q2.",
+      "Đất nền Nhơn Trạch."
+    ]
+  },
+  {
+    "query": "Nhà phố có sân vườn Quận 8",
+    "positive_doc": "Nhà phố Tạ Quang Bửu, Q8, có sân vườn nhỏ, 1 trệt 2 lầu, 6.5 tỷ.",
+    "negative_docs": [
+      "Văn phòng Q5.",
+      "Đất nông nghiệp Long An."
+    ]
+  },
+  {
+    "query": "Căn hộ giá phải chăng Quận 8",
+    "positive_doc": "Căn hộ City Gate, Q8, 2PN, nội thất cơ bản, 7 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Bình Chánh.",
+      "Nhà phố Gò Vấp."
+    ]
+  },
+  {
+    "query": "Đất mặt tiền Quốc lộ 1A TP Thủ Đức",
+    "positive_doc": "Đất mặt tiền Quốc lộ 1A, Thủ Đức, tiện kinh doanh, 150m2, 15 tỷ.",
+    "negative_docs": [
+      "Căn hộ Estella Heights.",
+      "Nhà trọ Q9."
+    ]
+  },
+  {
+    "query": "Căn hộ 1PN gần trung tâm Q1",
+    "positive_doc": "Căn hộ Vinhomes Golden River, 1PN, view sông, full nội thất, 18 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Củ Chi.",
+      "Nhà phố Bình Thạnh."
+    ]
+  },
+  {
+    "query": "Nhà cấp 4 Bình Chánh gần chợ",
+    "positive_doc": "Nhà cấp 4 Bình Chánh, Vĩnh Lộc A, gần chợ Vĩnh Lộc, 70m2, 2.1 tỷ.",
+    "negative_docs": [
+      "Nhà nguyên căn Q7.",
+      "Căn hộ dịch vụ Q1."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 6 dưới 2.5 triệu",
+    "positive_doc": "Phòng trọ 15m2, hẻm Minh Phụng, Q6, 2.3 triệu/tháng.",
+    "negative_docs": [
+      "Nhà phố Q10.",
+      "Đất nền Đồng Nai."
+    ]
+  },
+  {
+    "query": "Đất nền xây nhà vườn Long Thành",
+    "positive_doc": "Đất nền Long Thành, Đồng Nai, 500m2, tiện xây nhà vườn, 2.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ The Sun Avenue.",
+      "Nhà trọ Phú Nhuận."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm cụt Q3",
+    "positive_doc": "Nhà hẻm cụt Nguyễn Đình Chiểu, Q3, 1 trệt 1 lầu, 35m2, 6 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Q7.",
+      "Đất thổ cư Bình Phước."
+    ]
+  },
+  {
+    "query": "Căn hộ officetel cho thuê Quận 4",
+    "positive_doc": "Căn hộ officetel Saigon Royal, Q4, 30m2, full nội thất, 9 triệu/tháng.",
+    "negative_docs": [
+      "Nhà phố Q1.",
+      "Đất nền Long An."
+    ]
+  },
+  {
+    "query": "Nhà ở xã hội cho thuê Thủ Đức",
+    "positive_doc": "Căn hộ nhà ở xã hội Thủ Đức, P. Linh Trung, 2PN, 4 triệu/tháng.",
+    "negative_docs": [
+      "Biệt thự Thảo Điền.",
+      "Đất nền dự án Long Thành."
+    ]
+  },
+  {
+    "query": "Đất nền ven sông Nhơn Trạch",
+    "positive_doc": "Đất nền ven sông Đồng Nai, Nhơn Trạch, 120m2, sổ hồng, 1.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Q3.",
+      "Nhà phố Gò Vấp."
+    ]
+  },
+  {
+    "query": "Nhà nguyên căn Quận 11 giá hợp lý",
+    "positive_doc": "Nhà nguyên căn hẻm Lạc Long Quân, Q11, 1 trệt 1 lầu, 10 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Củ Chi.",
+      "Căn hộ 3PN Q7."
+    ]
+  },
+  {
+    "query": "Phòng trọ có gác lửng Q12",
+    "positive_doc": "Phòng trọ 25m2, Phan Văn Hớn, Q12, có gác lửng, 2.9 triệu/tháng.",
+    "negative_docs": [
+      "Nhà phố Tân Bình.",
+      "Đất nông nghiệp Bình Phước."
+    ]
+  },
+  {
+    "query": "Tìm nhà 3 phòng ngủ Quận 7",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Nguyễn Thị Thập, Quận 7, 3PN, 3WC, giá 20 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ 1PN Quận 4, giá 8 triệu.",
+      "Đất nền Củ Chi, gần KCN."
+    ]
+  },
+  {
+    "query": "Mua căn hộ Topaz Elite",
+    "positive_doc": "Bán căn hộ Topaz Elite, Quận 8, 2PN, nội thất cơ bản, giá 2.3 tỷ.",
+    "negative_docs": [
+      "Cho thuê biệt thự Quận 2.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Đất thổ cư Sóc Sơn gần Hà Nội",
+    "positive_doc": "Bán đất thổ cư Sóc Sơn, Hà Nội, diện tích 100m2, sổ đỏ, giá 1.2 tỷ.",
+    "negative_docs": [
+      "Cho thuê chung cư Cầu Giấy.",
+      "Nhà mặt tiền Đống Đa."
+    ]
+  },
+  {
+    "query": "Thuê nhà mặt tiền Quận 1 kinh doanh",
+    "positive_doc": "Cho thuê nhà mặt tiền đường Đồng Khởi, Quận 1, 1 trệt 3 lầu, tiện kinh doanh, giá 150 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ Vinhomes Central Park.",
+      "Đất nền Long Thành."
+    ]
+  },
+  {
+    "query": "Tìm căn hộ 1 phòng ngủ tại Quận 2",
+    "positive_doc": "Cho thuê căn hộ Masteri An Phú, Quận 2, 1PN, full nội thất, giá 14 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nông nghiệp Củ Chi.",
+      "Nhà phố Gò Vấp, giá 15 triệu."
+    ]
+  },
+  {
+    "query": "Mua đất nền khu dân cư tại Long An",
+    "positive_doc": "Bán đất nền KDC Five Star Eco City, Long An, 90m2, sổ riêng, giá 1.1 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, giá 10 triệu.",
+      "Nhà trọ Quận Thủ Đức."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà phố 4 phòng ngủ Quận Bình Thạnh",
+    "positive_doc": "Cho thuê nhà phố đường D5, Bình Thạnh, 1 trệt 3 lầu, 4PN, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ The Sun Avenue.",
+      "Đất nông nghiệp Bình Phước."
+    ]
+  },
+  {
+    "query": "Phòng trọ giá 1.5 triệu ở Thủ Đức",
+    "positive_doc": "Phòng trọ 12m2, hẻm Võ Văn Ngân, Thủ Đức, giá 1.5 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ 2PN Quận 7, view sông.",
+      "Đất nền Biên Hòa, giá cao."
+    ]
+  },
+  {
+    "query": "Mua đất nền dự án Biên Hòa",
+    "positive_doc": "Bán đất nền dự án Biên Hòa New City, Đồng Nai, 100m2, sổ hồng, giá 2.5 tỷ.",
+    "negative_docs": [
+      "Thuê nhà phố Quận 1, mặt tiền.",
+      "Căn hộ giá rẻ Quận 8."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ đầy đủ nội thất Quận 7",
+    "positive_doc": "Cho thuê căn hộ Riviera Point, Quận 7, 2PN, full nội thất cao cấp, giá 20 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Chánh, gần KCN.",
+      "Nhà phố Tân Phú, giá 10 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm nhà cấp 4 có sân trước Thủ Đức",
+    "positive_doc": "Bán nhà cấp 4 Thủ Đức, phường Hiệp Bình Chánh, có sân trước, 60m2, giá 3.5 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Landmark 81.",
+      "Đất nông nghiệp Cần Giờ."
+    ]
+  },
+  {
+    "query": "Tìm căn hộ 2 phòng ngủ gần đại học RMIT",
+    "positive_doc": "Cho thuê căn hộ Sunrise City, 2 phòng ngủ, nội thất đầy đủ, cách RMIT 300m, giá 9 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền dự án ở Củ Chi, giá rẻ, pháp lý rõ ràng.",
+      "Nhà phố mặt tiền đường Trường Chinh, Quận 12, diện tích 70m2."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn Quận 7",
+    "positive_doc": "Nhà nguyên căn 1 trệt 2 lầu, hẻm xe hơi đường Lê Văn Lương, Quận 7, giá 12 triệu.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, gần Bitexco, giá 8 triệu.",
+      "Đất thổ cư Bình Chánh, diện tích 100m2, giá 1 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà mặt tiền Quận Bình Thạnh dưới 5 tỷ",
+    "positive_doc": "Bán nhà mặt tiền đường Nguyễn Văn Đậu, Bình Thạnh, diện tích 55m2, giá 4.9 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Vinhomes Central Park, 15 triệu/tháng.",
+      "Bán đất vườn Long Thành, 600m2, sổ riêng."
+    ]
+  },
+  {
+    "query": "Tìm đất nền xây trọ ở Thủ Đức",
+    "positive_doc": "Đất nền thổ cư đường Linh Trung, Thủ Đức, gần đại học SPKT, tiện xây trọ, 80m2.",
+    "negative_docs": [
+      "Nhà phố Phú Nhuận, nội thất cao cấp.",
+      "Căn hộ chung cư cao cấp quận 2."
+    ]
+  },
+  {
+    "query": "Căn hộ giá rẻ gần khu công nghệ cao Quận 9",
+    "positive_doc": "Căn hộ 1 phòng ngủ, đường Lã Xuân Oai, cách khu CNC 1km, giá 6 triệu.",
+    "negative_docs": [
+      "Đất mặt tiền Long Thành, Đồng Nai.",
+      "Biệt thự Thảo Điền, hồ bơi riêng."
+    ]
+  },
+  {
+    "query": "Nhà trọ giá rẻ gần đại học Tôn Đức Thắng",
+    "positive_doc": "Phòng trọ 18m2, hẻm 793 Trần Xuân Soạn, cách TĐT 10 phút đi bộ, giá 2.5 triệu.",
+    "negative_docs": [
+      "Đất nền Đức Hòa, Long An, sổ riêng.",
+      "Nhà phố Quận 1, mặt tiền kinh doanh."
+    ]
+  },
+  {
+    "query": "Thuê chung cư gần Lotte Mart Quận 7",
+    "positive_doc": "Căn hộ Sky Garden, cách Lotte Mart 500m, 2PN, full nội thất, 10 triệu.",
+    "negative_docs": [
+      "Nhà nguyên căn Tân Phú, 1 trệt 1 lầu.",
+      "Đất nền đường số 4, Hiệp Bình Chánh."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà gần sân bay Tân Sơn Nhất",
+    "positive_doc": "Nhà nguyên căn đường Trường Sơn, cách sân bay 1km, tiện ở hoặc làm VP, 15 triệu.",
+    "negative_docs": [
+      "Chung cư Q.7, view hồ bơi.",
+      "Đất ruộng Bến Lức, 1.2 tỷ/300m2."
+    ]
+  },
+  {
+    "query": "Cần thuê phòng trọ Quận 3 dưới 3 triệu",
+    "positive_doc": "Phòng trọ 20m2, hẻm Cách Mạng Tháng Tám, Quận 3, giá 2.8 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ full nội thất, Quận 1, 12 triệu.",
+      "Đất nền khu dân cư Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Mua nhà sổ riêng gần KDC Vĩnh Lộc B",
+    "positive_doc": "Bán nhà cấp 4, sổ hồng riêng, gần Vĩnh Lộc B, diện tích 64m2, giá 1.8 tỷ.",
+    "negative_docs": [
+      "Phòng trọ Quận 4, giá sinh viên.",
+      "Căn hộ cao cấp Thủ Thiêm, view sông."
+    ]
+  },
+  {
+    "query": "Tìm căn hộ có 2 phòng ngủ gần đại học RMIT",
+    "positive_doc": "Cho thuê căn hộ Sunrise City, 2 phòng ngủ, nội thất đầy đủ, cách RMIT 300m, giá 9 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền dự án ở Củ Chi, giá rẻ, pháp lý rõ ràng.",
+      "Nhà phố mặt tiền đường Trường Chinh, Quận 12, diện tích 70m2."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn tại Quận 7",
+    "positive_doc": "Nhà nguyên căn 1 trệt 2 lầu, hẻm xe hơi đường Lê Văn Lương, Quận 7, giá 12 triệu.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, gần Bitexco, giá 8 triệu.",
+      "Đất thổ cư Bình Chánh, diện tích 100m2, giá 1 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà mặt tiền tại Quận Bình Thạnh giá dưới 5 tỷ",
+    "positive_doc": "Bán nhà mặt tiền đường Nguyễn Văn Đậu, Bình Thạnh, diện tích 55m2, giá 4.9 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Vinhomes Central Park, 15 triệu/tháng.",
+      "Bán đất vườn Long Thành, 600m2, sổ riêng."
+    ]
+  },
+  {
+    "query": "Tìm đất nền để xây phòng trọ tại Thủ Đức",
+    "positive_doc": "Đất nền thổ cư đường Linh Trung, Thủ Đức, gần đại học SPKT, tiện xây trọ, 80m2.",
+    "negative_docs": [
+      "Nhà phố Phú Nhuận, nội thất cao cấp.",
+      "Căn hộ chung cư cao cấp quận 2."
+    ]
+  },
+  {
+    "query": "Căn hộ giá phải chăng gần khu công nghệ cao Quận 9",
+    "positive_doc": "Căn hộ 1 phòng ngủ, đường Lã Xuân Oai, cách khu CNC 1km, giá 6 triệu.",
+    "negative_docs": [
+      "Đất mặt tiền Long Thành, Đồng Nai.",
+      "Biệt thự Thảo Điền, hồ bơi riêng."
+    ]
+  },
+  {
+    "query": "Nhà trọ giá cả phải chăng gần đại học Tôn Đức Thắng",
+    "positive_doc": "Phòng trọ 18m2, hẻm 793 Trần Xuân Soạn, cách TĐT 10 phút đi bộ, giá 2.5 triệu.",
+    "negative_docs": [
+      "Đất nền Đức Hòa, Long An, sổ riêng.",
+      "Nhà phố Quận 1, mặt tiền kinh doanh."
+    ]
+  },
+  {
+    "query": "Thuê chung cư gần siêu thị Lotte Mart Quận 7",
+    "positive_doc": "Căn hộ Sky Garden, cách Lotte Mart 500m, 2PN, full nội thất, 10 triệu.",
+    "negative_docs": [
+      "Nhà nguyên căn Tân Phú, 1 trệt 1 lầu.",
+      "Đất nền đường số 4, Hiệp Bình Chánh."
+    ]
+  },
+  {
+    "query": "Tìm nhà cho thuê gần sân bay Tân Sơn Nhất",
+    "positive_doc": "Nhà nguyên căn đường Trường Sơn, cách sân bay 1km, tiện ở hoặc làm VP, 15 triệu.",
+    "negative_docs": [
+      "Chung cư Q.7, view hồ bơi.",
+      "Đất ruộng Bến Lức, 1.2 tỷ/300m2."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ Quận 3 với giá dưới 3 triệu",
+    "positive_doc": "Phòng trọ 20m2, hẻm Cách Mạng Tháng Tám, Quận 3, giá 2.8 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ full nội thất, Quận 1, 12 triệu.",
+      "Đất nền khu dân cư Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Mua nhà đã có sổ đỏ gần KDC Vĩnh Lộc B",
+    "positive_doc": "Bán nhà cấp 4, sổ hồng riêng, gần Vĩnh Lộc B, diện tích 64m2, giá 1.8 tỷ.",
+    "negative_docs": [
+      "Phòng trọ Quận 4, giá sinh viên.",
+      "Căn hộ cao cấp Thủ Thiêm, view sông."
+    ]
+  },
+  {
+    "query": "Cần căn hộ 2 phòng ngủ gần trường RMIT",
+    "positive_doc": "Cho thuê căn hộ Sunrise City, 2 phòng ngủ, nội thất đầy đủ, cách RMIT 300m, giá 9 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền dự án ở Củ Chi, giá rẻ, pháp lý rõ ràng.",
+      "Nhà phố mặt tiền đường Trường Chinh, Quận 12, diện tích 70m2."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn tại Quận 7 Hồ Chí Minh",
+    "positive_doc": "Nhà nguyên căn 1 trệt 2 lầu, hẻm xe hơi đường Lê Văn Lương, Quận 7, giá 12 triệu.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, gần Bitexco, giá 8 triệu.",
+      "Đất thổ cư Bình Chánh, diện tích 100m2, giá 1 tỷ."
+    ]
+  },
+  {
+    "query": "Nhà phố mặt tiền Bình Thạnh giá dưới 5 tỷ",
+    "positive_doc": "Bán nhà mặt tiền đường Nguyễn Văn Đậu, Bình Thạnh, diện tích 55m2, giá 4.9 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Vinhomes Central Park, 15 triệu/tháng.",
+      "Bán đất vườn Long Thành, 600m2, sổ riêng."
+    ]
+  },
+  {
+    "query": "Đất nền tiện xây nhà trọ ở TP Thủ Đức",
+    "positive_doc": "Đất nền thổ cư đường Linh Trung, Thủ Đức, gần đại học SPKT, tiện xây trọ, 80m2.",
+    "negative_docs": [
+      "Nhà phố Phú Nhuận, nội thất cao cấp.",
+      "Căn hộ chung cư cao cấp quận 2."
+    ]
+  },
+  {
+    "query": "Căn hộ chung cư giá rẻ gần khu công nghệ cao Q9",
+    "positive_doc": "Căn hộ 1 phòng ngủ, đường Lã Xuân Oai, cách khu CNC 1km, giá 6 triệu.",
+    "negative_docs": [
+      "Đất mặt tiền Long Thành, Đồng Nai.",
+      "Biệt thự Thảo Điền, hồ bơi riêng."
+    ]
+  },
+  {
+    "query": "Phòng trọ giá tốt gần trường Tôn Đức Thắng",
+    "positive_doc": "Phòng trọ 18m2, hẻm 793 Trần Xuân Soạn, cách TĐT 10 phút đi bộ, giá 2.5 triệu.",
+    "negative_docs": [
+      "Đất nền Đức Hòa, Long An, sổ riêng.",
+      "Nhà phố Quận 1, mặt tiền kinh doanh."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ chung cư gần Lotte Mart Q7",
+    "positive_doc": "Căn hộ Sky Garden, cách Lotte Mart 500m, 2PN, full nội thất, 10 triệu.",
+    "negative_docs": [
+      "Nhà nguyên căn Tân Phú, 1 trệt 1 lầu.",
+      "Đất nền đường số 4, Hiệp Bình Chánh."
+    ]
+  },
+  {
+    "query": "Tìm nhà thuê gần sân bay Tân Sơn Nhất Hồ Chí Minh",
+    "positive_doc": "Nhà nguyên căn đường Trường Sơn, cách sân bay 1km, tiện ở hoặc làm VP, 15 triệu.",
+    "negative_docs": [
+      "Chung cư Q.7, view hồ bơi.",
+      "Đất ruộng Bến Lức, 1.2 tỷ/300m2."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 3 giá dưới 3 triệu đồng",
+    "positive_doc": "Phòng trọ 20m2, hẻm Cách Mạng Tháng Tám, Quận 3, giá 2.8 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ full nội thất, Quận 1, 12 triệu.",
+      "Đất nền khu dân cư Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Mua nhà có sổ hồng riêng gần KDC Vĩnh Lộc B",
+    "positive_doc": "Bán nhà cấp 4, sổ hồng riêng, gần Vĩnh Lộc B, diện tích 64m2, giá 1.8 tỷ.",
+    "negative_docs": [
+      "Phòng trọ Quận 4, giá sinh viên.",
+      "Căn hộ cao cấp Thủ Thiêm, view sông."
+    ]
+  },
+  {
+    "query": "Thuê văn phòng Quận 1 giá tốt",
+    "positive_doc": "Cho thuê văn phòng hạng B đường Hai Bà Trưng, Quận 1, diện tích 80m2, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ Officetel Quận 4, view sông.",
+      "Đất nền khu dân cư mới Bình Dương."
+    ]
+  },
+  {
+    "query": "Đất nông nghiệp Củ Chi diện tích lớn",
+    "positive_doc": "Bán đất vườn Củ Chi, xã Thái Mỹ, 5000m2, đường xe hơi vào được, giá 1.5 tỷ/công.",
+    "negative_docs": [
+      "Cho thuê nhà trọ gần chợ Bến Thành.",
+      "Căn hộ cao cấp khu đô thị Phú Mỹ Hưng."
+    ]
+  },
+  {
+    "query": "Mua biệt thự Quận 2 có hồ bơi",
+    "positive_doc": "Bán biệt thự Thảo Điền, Quận 2, có hồ bơi riêng, 4 phòng ngủ, diện tích 300m2, giá 35 tỷ.",
+    "negative_docs": [
+      "Căn hộ 2PN Vinhomes Central Park, giá thuê 20 triệu.",
+      "Đất nền dự án Long An, sổ hồng."
+    ]
+  },
+  {
+    "query": "Cần tìm nhà phố cho thuê Gò Vấp",
+    "positive_doc": "Cho thuê nhà phố đường Phan Văn Trị, Gò Vấp, 1 trệt 2 lầu, 3 phòng ngủ, giá 18 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Chánh, gần KCN.",
+      "Căn hộ studio Quận 4, full nội thất."
+    ]
+  },
+  {
+    "query": "Đất thổ cư Bình Dương gần KCN",
+    "positive_doc": "Bán đất thổ cư Thuận An, Bình Dương, gần KCN VSIP 1, diện tích 120m2, giá 2 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Quận 3, 1 phòng ngủ.",
+      "Bán nhà nguyên căn Quận 10."
+    ]
+  },
+  {
+    "query": "Căn hộ dịch vụ Quận 1 có bếp",
+    "positive_doc": "Cho thuê căn hộ dịch vụ đường Nguyễn Thị Minh Khai, Quận 1, 1PN, có bếp riêng, giá 10 triệu/tháng.",
+    "negative_docs": [
+      "Nhà trọ sinh viên Gò Vấp.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm xe hơi Quận 10 dưới 8 tỷ",
+    "positive_doc": "Bán nhà hẻm xe hơi đường Thành Thái, Quận 10, 1 trệt 2 lầu, diện tích 45m2, giá 7.5 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Vinhomes Grand Park.",
+      "Bán đất vườn Đồng Nai, giá 1 tỷ."
+    ]
+  },
+  {
+    "query": "Đất mặt tiền kinh doanh Quận 12",
+    "positive_doc": "Bán đất mặt tiền đường Nguyễn Ảnh Thủ, Quận 12, tiện kinh doanh, diện tích 100m2, giá 9 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 7.",
+      "Đất thổ cư Bến Lức, Long An."
+    ]
+  },
+  {
+    "query": "Thuê kho xưởng ở Bình Chánh",
+    "positive_doc": "Cho thuê kho xưởng KCN Vĩnh Lộc, Bình Chánh, diện tích 500m2, có văn phòng, giá 30 triệu/tháng.",
+    "negative_docs": [
+      "Nhà ở xã hội Quận 12.",
+      "Bán căn hộ The Sun Avenue."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần chợ Bến Thành giá sinh viên",
+    "positive_doc": "Phòng trọ 15m2, hẻm Lê Thánh Tôn, Quận 1, gần chợ Bến Thành, giá 3.5 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ 3PN Quận 7, view sông.",
+      "Đất nền sổ đỏ Bình Dương."
+    ]
+  },
+  {
+    "query": "Mua nhà cấp 4 Hóc Môn có sổ",
+    "positive_doc": "Bán nhà cấp 4 Hóc Môn, xã Xuân Thới Thượng, sổ hồng riêng, diện tích 80m2, giá 2.2 tỷ.",
+    "negative_docs": [
+      "Thuê nhà nguyên căn Phú Nhuận.",
+      "Căn hộ Masteri Thảo Điền."
+    ]
+  },
+  {
+    "query": "Cần thuê căn hộ 1 phòng ngủ Quận 4",
+    "positive_doc": "Cho thuê căn hộ Icon 56, Quận 4, 1PN, full nội thất, giá 11 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Long An, giá 800 triệu.",
+      "Nhà phố mặt tiền Quận 11."
+    ]
+  },
+  {
+    "query": "Đất nền khu dân cư Bình Chánh mới",
+    "positive_doc": "Bán đất nền KDC Phong Phú 4, Bình Chánh, 100m2, sổ riêng, giá 2.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 5.",
+      "Nhà phố Gò Vấp, tiện kinh doanh."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm Quận Tân Bình dưới 6 tỷ",
+    "positive_doc": "Bán nhà hẻm đường Hoàng Hoa Thám, Tân Bình, 1 trệt 1 lầu, diện tích 50m2, giá 5.8 tỷ.",
+    "negative_docs": [
+      "Cho thuê văn phòng Quận 3.",
+      "Đất nền Đồng Nai, khu dân cư."
+    ]
+  },
+  {
+    "query": "Thuê biệt thự Quận 9 có sân vườn",
+    "positive_doc": "Cho thuê biệt thự compound Valora Fuji, Quận 9, 3PN, có sân vườn, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ Masteri An Phú.",
+      "Đất nông nghiệp Bình Phước."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 10 cho sinh viên",
+    "positive_doc": "Phòng trọ 18m2, hẻm Sư Vạn Hạnh, Quận 10, gần trường học, giá 2.7 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 2, tiện ở.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Căn hộ cao cấp Quận Bình Thạnh",
+    "positive_doc": "Cho thuê căn hộ Vinhomes Central Park, 2PN, view sông, full nội thất, giá 22 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, gần chợ.",
+      "Nhà phố Tân Phú, giá 7 tỷ."
+    ]
+  },
+  {
+    "query": "Mua đất nền dự án Long Thành",
+    "positive_doc": "Bán đất nền dự án Airport City, Long Thành, Đồng Nai, 100m2, sổ hồng, giá 1.8 tỷ.",
+    "negative_docs": [
+      "Thuê nhà phố Quận 1, mặt tiền.",
+      "Căn hộ giá rẻ Quận 8."
+    ]
+  },
+  {
+    "query": "Nhà nguyên căn Quận 12 giá dưới 10 triệu",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Hà Huy Giáp, Quận 12, 1 trệt 1 lầu, giá 9 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ The Ascent.",
+      "Đất nông nghiệp Bình Dương."
+    ]
+  },
+  {
+    "query": "Thuê mặt bằng kinh doanh Quận Phú Nhuận",
+    "positive_doc": "Cho thuê mặt bằng đường Phan Đăng Lưu, Phú Nhuận, diện tích 60m2, tiện kinh doanh, giá 30 triệu/tháng.",
+    "negative_docs": [
+      "Nhà trọ Quận Thủ Đức.",
+      "Bán đất nền Long An, giá tốt."
+    ]
+  },
+  {
+    "query": "Cần mua nhà mặt tiền Quận 6",
+    "positive_doc": "Bán nhà mặt tiền đường Hậu Giang, Quận 6, tiện kinh doanh, 1 trệt 2 lầu, giá 12 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Celadon City.",
+      "Đất nền dự án Biên Hòa."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần đại học Nguyễn Tất Thành",
+    "positive_doc": "Phòng trọ 16m2, hẻm Hoàng Diệu, Quận 4, cách ĐH Nguyễn Tất Thành 500m, giá 2.6 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Bình Thạnh, giá cao.",
+      "Đất thổ cư Long An, giá 1.5 tỷ."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ 3 phòng ngủ Quận 7",
+    "positive_doc": "Cho thuê căn hộ Happy Valley, Quận 7, 3PN, view sân golf, full nội thất, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Dương, gần chợ.",
+      "Nhà phố Tân Bình, giá 9 tỷ."
+    ]
+  },
+  {
+    "query": "Đất nền sổ đỏ Long An giá dưới 1 tỷ",
+    "positive_doc": "Bán đất nền Đức Hòa, Long An, 80m2, sổ đỏ riêng, giá 850 triệu.",
+    "negative_docs": [
+      "Cho thuê căn hộ Saigon Pearl.",
+      "Nhà phố Gò Vấp, hẻm cụt."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm ba gác Quận 5",
+    "positive_doc": "Bán nhà hẻm ba gác đường Trần Hưng Đạo, Quận 5, 1 trệt 1 lầu, diện tích 30m2, giá 4 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, giá 15 triệu.",
+      "Đất nông nghiệp Cần Giờ."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà xưởng nhỏ Thủ Đức",
+    "positive_doc": "Cho thuê nhà xưởng nhỏ đường Phạm Văn Đồng, Thủ Đức, diện tích 150m2, giá 15 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Nhơn Trạch, Đồng Nai.",
+      "Căn hộ 2PN Quận 10."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ có máy lạnh Quận Bình Thạnh",
+    "positive_doc": "Phòng trọ 20m2, hẻm Nơ Trang Long, Bình Thạnh, có máy lạnh, giá 3.2 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 8, giá rẻ.",
+      "Đất thổ cư Bình Dương, giá 1.2 tỷ."
+    ]
+  },
+  {
+    "query": "Mua căn hộ studio Quận 4",
+    "positive_doc": "Bán căn hộ The Tresor, Quận 4, studio, full nội thất, view sông, giá 2.8 tỷ.",
+    "negative_docs": [
+      "Cho thuê nhà phố Quận 1, 3 lầu.",
+      "Đất nền KDC Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Đất thổ cư Biên Hòa Đồng Nai",
+    "positive_doc": "Bán đất nền Biên Hòa, Đồng Nai, phường An Bình, 100m2, sổ hồng, giá 2.1 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, giá 9 triệu.",
+      "Nhà phố Tân Bình, hẻm lớn."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn có sân thượng Quận 1",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Nguyễn Trãi, Quận 1, 1 trệt 2 lầu có sân thượng, giá 40 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, gần chợ.",
+      "Căn hộ 1PN Quận 7, view hồ bơi."
+    ]
+  },
+  {
+    "query": "Cần mua đất vườn Cần Giờ",
+    "positive_doc": "Bán đất vườn Cần Giờ, xã Long Hòa, 1000m2, có thổ cư, giá 2 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Masteri An Phú, 2PN.",
+      "Nhà phố Quận 12, giá 8 tỷ."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 11 gần chợ",
+    "positive_doc": "Phòng trọ 18m2, hẻm Lạc Long Quân, Quận 11, gần chợ Bình Thới, giá 2.9 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 2, giá 10 triệu.",
+      "Đất nền Nhơn Trạch, giá 1.5 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà phố Quận 8 có sân vườn",
+    "positive_doc": "Bán nhà phố đường Tạ Quang Bửu, Quận 8, có sân vườn nhỏ, 1 trệt 2 lầu, giá 6.5 tỷ.",
+    "negative_docs": [
+      "Cho thuê văn phòng Quận 5.",
+      "Đất nông nghiệp Long An, diện tích lớn."
+    ]
+  },
+  {
+    "query": "Căn hộ giá rẻ Quận 8",
+    "positive_doc": "Cho thuê căn hộ City Gate, Quận 8, 2PN, nội thất cơ bản, giá 7 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Chánh, sổ riêng.",
+      "Nhà phố Gò Vấp, mặt tiền."
+    ]
+  },
+  {
+    "query": "Đất mặt tiền Quốc lộ 1A Thủ Đức",
+    "positive_doc": "Bán đất mặt tiền Quốc lộ 1A, Thủ Đức, tiện kinh doanh, 150m2, giá 15 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Estella Heights.",
+      "Nhà trọ Quận 9, giá sinh viên."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ 1PN gần trung tâm Quận 1",
+    "positive_doc": "Cho thuê căn hộ Vinhomes Golden River, 1PN, view sông, full nội thất, giá 18 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, sổ đỏ.",
+      "Nhà phố Bình Thạnh, hẻm lớn."
+    ]
+  },
+  {
+    "query": "Mua nhà cấp 4 Bình Chánh gần chợ",
+    "positive_doc": "Bán nhà cấp 4 Bình Chánh, xã Vĩnh Lộc A, gần chợ Vĩnh Lộc, 70m2, giá 2.1 tỷ.",
+    "negative_docs": [
+      "Cho thuê nhà nguyên căn Quận 7.",
+      "Căn hộ dịch vụ Quận 1, giá cao."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ Quận 6 giá dưới 2.5 triệu",
+    "positive_doc": "Phòng trọ 15m2, hẻm Minh Phụng, Quận 6, giá 2.3 triệu/tháng.",
+    "negative_docs": [
+      "Nhà phố Quận 10, mặt tiền.",
+      "Đất nền Đồng Nai, khu dân cư."
+    ]
+  },
+  {
+    "query": "Cần tìm đất nền xây nhà vườn Đồng Nai",
+    "positive_doc": "Bán đất nền Long Thành, Đồng Nai, diện tích 500m2, tiện xây nhà vườn, giá 2.5 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ The Sun Avenue, 2PN.",
+      "Nhà trọ Quận Phú Nhuận."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm cụt Quận 3",
+    "positive_doc": "Bán nhà hẻm cụt đường Nguyễn Đình Chiểu, Quận 3, 1 trệt 1 lầu, diện tích 35m2, giá 6 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 7, view hồ bơi.",
+      "Đất thổ cư Bình Phước."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ officetel Quận 4",
+    "positive_doc": "Cho thuê căn hộ officetel Saigon Royal, Quận 4, diện tích 30m2, full nội thất, giá 9 triệu/tháng.",
+    "negative_docs": [
+      "Bán nhà phố Quận 1, mặt tiền.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà ở xã hội Thủ Đức",
+    "positive_doc": "Cho thuê căn hộ nhà ở xã hội Thủ Đức, P. Linh Trung, 2PN, giá 4 triệu/tháng.",
+    "negative_docs": [
+      "Bán biệt thự Thảo Điền.",
+      "Đất nền dự án Long Thành."
+    ]
+  },
+  {
+    "query": "Mua đất nền ven sông Nhơn Trạch",
+    "positive_doc": "Bán đất nền ven sông Đồng Nai, Nhơn Trạch, diện tích 120m2, sổ hồng, giá 1.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, gần chợ.",
+      "Nhà phố Gò Vấp, giá 8 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm nhà nguyên căn Quận 11 giá phải chăng",
+    "positive_doc": "Cho thuê nhà nguyên căn hẻm Lạc Long Quân, Quận 11, 1 trệt 1 lầu, giá 10 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, 1000m2.",
+      "Căn hộ 3PN Quận 7, view sông."
+    ]
+  },
+  {
+    "query": "Phòng trọ có gác lửng Quận 12",
+    "positive_doc": "Phòng trọ 25m2, đường Phan Văn Hớn, Quận 12, có gác lửng, giá 2.9 triệu/tháng.",
+    "negative_docs": [
+      "Nhà phố Tân Bình, giá cao.",
+      "Đất nông nghiệp Bình Phước, giá rẻ."
+    ]
+  },
+  {
+    "query": "Tìm nhà 3 phòng ngủ Quận 7",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Nguyễn Thị Thập, Quận 7, 3PN, 3WC, giá 20 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ 1PN Quận 4, giá 8 triệu.",
+      "Đất nền Củ Chi, gần KCN."
+    ]
+  },
+  {
+    "query": "Mua căn hộ Topaz Elite",
+    "positive_doc": "Bán căn hộ Topaz Elite, Quận 8, 2PN, nội thất cơ bản, giá 2.3 tỷ.",
+    "negative_docs": [
+      "Cho thuê biệt thự Quận 2.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Đất thổ cư Sóc Sơn gần Hà Nội",
+    "positive_doc": "Bán đất thổ cư Sóc Sơn, Hà Nội, diện tích 100m2, sổ đỏ, giá 1.2 tỷ.",
+    "negative_docs": [
+      "Cho thuê chung cư Cầu Giấy.",
+      "Nhà mặt tiền Đống Đa."
+    ]
+  },
+  {
+    "query": "Thuê nhà mặt tiền Quận 1 kinh doanh",
+    "positive_doc": "Cho thuê nhà mặt tiền đường Đồng Khởi, Quận 1, 1 trệt 3 lầu, tiện kinh doanh, giá 150 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ Vinhomes Central Park.",
+      "Đất nền Long Thành."
+    ]
+  },
+  {
+    "query": "Tìm căn hộ 1 phòng ngủ tại Quận 2",
+    "positive_doc": "Cho thuê căn hộ Masteri An Phú, Quận 2, 1PN, full nội thất, giá 14 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nông nghiệp Củ Chi.",
+      "Nhà phố Gò Vấp, giá 15 triệu."
+    ]
+  },
+  {
+    "query": "Mua đất nền khu dân cư tại Long An",
+    "positive_doc": "Bán đất nền KDC Five Star Eco City, Long An, 90m2, sổ riêng, giá 1.1 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, giá 10 triệu.",
+      "Nhà trọ Quận Thủ Đức."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà phố 4 phòng ngủ Quận Bình Thạnh",
+    "positive_doc": "Cho thuê nhà phố đường D5, Bình Thạnh, 1 trệt 3 lầu, 4PN, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ The Sun Avenue.",
+      "Đất nông nghiệp Bình Phước."
+    ]
+  },
+  {
+    "query": "Phòng trọ giá 1.5 triệu ở Thủ Đức",
+    "positive_doc": "Phòng trọ 12m2, hẻm Võ Văn Ngân, Thủ Đức, giá 1.5 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ 2PN Quận 7, view sông.",
+      "Đất nền Biên Hòa, giá cao."
+    ]
+  },
+  {
+    "query": "Mua đất nền dự án Biên Hòa",
+    "positive_doc": "Bán đất nền dự án Biên Hòa New City, Đồng Nai, 100m2, sổ hồng, giá 2.5 tỷ.",
+    "negative_docs": [
+      "Thuê nhà phố Quận 1, mặt tiền.",
+      "Căn hộ giá rẻ Quận 8."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ đầy đủ nội thất Quận 7",
+    "positive_doc": "Cho thuê căn hộ Riviera Point, Quận 7, 2PN, full nội thất cao cấp, giá 20 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Chánh, gần KCN.",
+      "Nhà phố Tân Phú, giá 10 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm nhà cấp 4 có sân trước Thủ Đức",
+    "positive_doc": "Bán nhà cấp 4 Thủ Đức, phường Hiệp Bình Chánh, có sân trước, 60m2, giá 3.5 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Landmark 81.",
+      "Đất nông nghiệp Cần Giờ."
+    ]
+  },
+  {
+    "query": "Cần mua đất thổ cư ở Bến Cát Bình Dương",
+    "positive_doc": "Bán đất thổ cư Bến Cát, Bình Dương, gần KCN Mỹ Phước 3, 150m2, sổ hồng, giá 1.8 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Sài Gòn Pearl.",
+      "Nhà phố Hóc Môn, giá 3 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ nữ gần đại học Kinh tế TP.HCM",
+    "positive_doc": "Phòng trọ nữ 18m2, hẻm Vạn Hạnh, Quận 10, gần ĐH Kinh tế TP.HCM, giá 2.8 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 7, view sông.",
+      "Đất nền dự án Long An."
+    ]
+  },
+  {
+    "query": "Thuê chung cư 2PN Quận 4 view sông",
+    "positive_doc": "Cho thuê căn hộ The GoldView, Quận 4, 2PN, view sông, full nội thất, giá 16 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, giá rẻ.",
+      "Nhà phố Quận 1, mặt tiền."
+    ]
+  },
+  {
+    "query": "Mua nhà mặt tiền Quận 10 dưới 10 tỷ",
+    "positive_doc": "Bán nhà mặt tiền đường Tô Hiến Thành, Quận 10, 1 trệt 2 lầu, diện tích 40m2, giá 9.5 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ EHome 3.",
+      "Đất vườn Đồng Nai, 1000m2."
+    ]
+  },
+  {
+    "query": "Cần tìm đất nền Bình Tân có sổ đỏ",
+    "positive_doc": "Bán đất nền Bình Tân, đường Tên Lửa, 80m2, sổ đỏ riêng, giá 3.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, giá 7 triệu.",
+      "Nhà phố Quận 12, giá 6 tỷ."
+    ]
+  },
+  {
+    "query": "Thuê biệt thự Thảo Điền Quận 2 giá 50 triệu",
+    "positive_doc": "Cho thuê biệt thự Thảo Điền, Quận 2, 4PN, có sân vườn, giá 50 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ The Ascent Thảo Điền.",
+      "Đất nông nghiệp Bình Phước."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ gần KCN Tân Bình",
+    "positive_doc": "Phòng trọ 20m2, hẻm Trường Chinh, Tân Bình, gần KCN Tân Bình, giá 2.6 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 1, giá cao.",
+      "Đất thổ cư Long An, giá 1.3 tỷ."
+    ]
+  },
+  {
+    "query": "Căn hộ 1PN tại Quận 3",
+    "positive_doc": "Cho thuê căn hộ Serenity Sky Villas, Quận 3, 1PN, full nội thất, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, giá 1 tỷ.",
+      "Nhà phố Phú Nhuận, giá 20 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà cấp 4 ở Long An dưới 1.5 tỷ",
+    "positive_doc": "Bán nhà cấp 4 Long An, Bến Lức, 1 trệt 1 lầu, diện tích 60m2, giá 1.4 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Masteri Thảo Điền.",
+      "Đất nền Nhơn Trạch, giá 1.8 tỷ."
+    ]
+  },
+  {
+    "query": "Đất mặt tiền đường lớn Thủ Đức",
+    "positive_doc": "Bán đất mặt tiền đường Kha Vạn Cân, Thủ Đức, tiện kinh doanh, 200m2, giá 25 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, view Bitexco.",
+      "Nhà trọ Quận 9, giá 2 triệu."
+    ]
+  },
+  {
+    "query": "Thuê văn phòng Quận 3 diện tích nhỏ",
+    "positive_doc": "Cho thuê văn phòng hạng C đường Nam Kỳ Khởi Nghĩa, Quận 3, 50m2, giá 18 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, diện tích lớn.",
+      "Nhà phố Tân Bình, giá 8 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm căn hộ 3 phòng ngủ Quận 2",
+    "positive_doc": "Cho thuê căn hộ Estella Heights, Quận 2, 3PN, full nội thất, view hồ bơi, giá 28 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất vườn Đồng Nai, 800m2.",
+      "Căn hộ dịch vụ Quận 4, giá 12 triệu."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm lớn Quận 11 dưới 7 tỷ",
+    "positive_doc": "Bán nhà hẻm lớn đường Lạc Long Quân, Quận 11, 1 trệt 2 lầu, diện tích 40m2, giá 6.8 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Celadon City.",
+      "Đất nền dự án Long An."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần đại học Sư phạm kỹ thuật",
+    "positive_doc": "Phòng trọ 18m2, hẻm Lê Văn Chí, Thủ Đức, gần ĐH Sư phạm Kỹ thuật, giá 2.5 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Bình Thạnh, giá 15 triệu.",
+      "Đất thổ cư Long An, giá 900 triệu."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn có 2 phòng ngủ Quận 7",
+    "positive_doc": "Cho thuê nhà nguyên căn hẻm Trần Xuân Soạn, Quận 7, 2PN, 2WC, giá 15 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Dương, gần KCN.",
+      "Nhà phố Tân Bình, giá 7 tỷ."
+    ]
+  },
+  {
+    "query": "Đất nền dự án mới ở Nhơn Trạch",
+    "positive_doc": "Bán đất nền dự án Swan Park, Nhơn Trạch, Đồng Nai, 100m2, sổ hồng, giá 1.6 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Saigon Pearl, 2PN.",
+      "Nhà phố Gò Vấp, hẻm nhỏ."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm cụt Quận 12 dưới 4 tỷ",
+    "positive_doc": "Bán nhà hẻm cụt đường Thạnh Lộc 41, Quận 12, 1 trệt 1 lầu, diện tích 50m2, giá 3.8 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, giá 10 triệu.",
+      "Đất nông nghiệp Cần Giờ, diện tích lớn."
+    ]
+  },
+  {
+    "query": "Cần thuê căn hộ 2PN Quận Bình Thạnh",
+    "positive_doc": "Cho thuê căn hộ City Garden, Bình Thạnh, 2PN, full nội thất, view thành phố, giá 28 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, gần trường.",
+      "Nhà phố Tân Phú, giá 8 tỷ."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 5 có điều hòa",
+    "positive_doc": "Phòng trọ 22m2, hẻm Nguyễn Trãi, Quận 5, có điều hòa, giá 3.5 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 8, giá 12 triệu.",
+      "Đất thổ cư Bình Dương, giá 1.5 tỷ."
+    ]
+  },
+  {
+    "query": "Mua căn hộ 3PN Quận 7 giá dưới 4 tỷ",
+    "positive_doc": "Bán căn hộ Scenic Valley, Quận 7, 3PN, nội thất cơ bản, giá 3.8 tỷ.",
+    "negative_docs": [
+      "Cho thuê nhà phố Quận 1, 4 lầu.",
+      "Đất nền KDC Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Đất thổ cư ở Cần Giờ có thổ cư",
+    "positive_doc": "Bán đất thổ cư Cần Giờ, xã Bình Khánh, 200m2, có sổ hồng, giá 2.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, giá 8 triệu.",
+      "Nhà phố Tân Bình, hẻm xe hơi."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn làm văn phòng Quận 3",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Lý Chính Thắng, Quận 3, 1 trệt 3 lầu, tiện làm VP, giá 35 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, diện tích 2000m2.",
+      "Căn hộ 1PN Quận 7, view hồ bơi."
+    ]
+  },
+  {
+    "query": "Cần mua đất vườn tại Long An",
+    "positive_doc": "Bán đất vườn Long An, Cần Giuộc, 1500m2, đường xe hơi, giá 1.7 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Masteri Thảo Điền, 3PN.",
+      "Nhà phố Quận 12, giá 7 tỷ."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 10 có cửa sổ",
+    "positive_doc": "Phòng trọ 16m2, hẻm Hồ Bá Kiện, Quận 10, có cửa sổ, giá 2.8 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 2, giá 9 triệu.",
+      "Đất nền Nhơn Trạch, giá 1.2 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà phố liền kề Quận 9",
+    "positive_doc": "Bán nhà phố liền kề Park Riverside, Quận 9, 1 trệt 2 lầu, 3PN, giá 5.5 tỷ.",
+    "negative_docs": [
+      "Cho thuê văn phòng Quận 5, diện tích lớn.",
+      "Đất nông nghiệp Long An, diện tích 5000m2."
+    ]
+  },
+  {
+    "query": "Căn hộ chung cư giá sinh viên Thủ Đức",
+    "positive_doc": "Cho thuê căn hộ chung cư mini Thủ Đức, gần ĐH Nông Lâm, 1PN, giá 3.5 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Chánh, sổ đỏ.",
+      "Nhà phố Gò Vấp, mặt tiền kinh doanh."
+    ]
+  },
+  {
+    "query": "Đất mặt tiền đường nhỏ Quận 1",
+    "positive_doc": "Bán đất mặt tiền đường Trần Khắc Chân, Quận 1, 40m2, tiện kinh doanh, giá 18 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Estella Heights, 2PN.",
+      "Nhà trọ Quận 9, giá 3 triệu."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ 2 phòng ngủ Quận 7",
+    "positive_doc": "Cho thuê căn hộ Midtown, Quận 7, 2PN, full nội thất, view sông, giá 22 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, gần chợ.",
+      "Nhà phố Bình Thạnh, hẻm cụt."
+    ]
+  },
+  {
+    "query": "Mua nhà cấp 4 Bình Tân dưới 3 tỷ",
+    "positive_doc": "Bán nhà cấp 4 Bình Tân, đường Mã Lò, 70m2, giá 2.9 tỷ.",
+    "negative_docs": [
+      "Cho thuê nhà nguyên căn Quận 7, giá 25 triệu.",
+      "Căn hộ dịch vụ Quận 1, giá 18 triệu."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ Quận 12 có bếp",
+    "positive_doc": "Phòng trọ 25m2, đường Nguyễn Văn Quá, Quận 12, có bếp nhỏ, giá 3 triệu/tháng.",
+    "negative_docs": [
+      "Nhà phố Quận 10, mặt tiền đường lớn.",
+      "Đất nền Đồng Nai, khu dân cư mới."
+    ]
+  },
+  {
+    "query": "Cần tìm đất nền xây biệt thự Long An",
+    "positive_doc": "Bán đất nền Long An, Bến Lức, 300m2, tiện xây biệt thự, giá 3 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ The Sun Avenue, 3PN.",
+      "Nhà trọ Quận Phú Nhuận, giá 2.5 triệu."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm thông Quận 6",
+    "positive_doc": "Bán nhà hẻm thông đường Hậu Giang, Quận 6, 1 trệt 2 lầu, 45m2, giá 8 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 7, view sân golf.",
+      "Đất thổ cư Bình Phước, giá 1 tỷ."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ 1PN Vinhomes Central Park",
+    "positive_doc": "Cho thuê căn hộ Vinhomes Central Park, 1PN, full nội thất, giá 15 triệu/tháng.",
+    "negative_docs": [
+      "Bán nhà phố Quận 1, 5 lầu.",
+      "Đất nền Long An, giá 900 triệu."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà kho ở Quận 12",
+    "positive_doc": "Cho thuê nhà kho đường Lê Văn Khương, Quận 12, diện tích 200m2, giá 18 triệu/tháng.",
+    "negative_docs": [
+      "Bán biệt thự Thảo Điền, có hồ bơi.",
+      "Đất nền dự án Long Thành."
+    ]
+  },
+  {
+    "query": "Mua căn hộ 2PN tại Quận 9",
+    "positive_doc": "Bán căn hộ Flora Anh Đào, Quận 9, 2PN, nội thất cơ bản, giá 2.1 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, giá 15 triệu.",
+      "Nhà phố Gò Vấp, giá 12 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ có ban công Quận Tân Bình",
+    "positive_doc": "Phòng trọ 20m2, hẻm Âu Cơ, Tân Bình, có ban công, giá 3.2 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 8, giá 10 triệu.",
+      "Đất thổ cư Bình Dương, giá 1.8 tỷ."
+    ]
+  },
+  {
+    "query": "Thuê chung cư 1PN Quận 1 view đẹp",
+    "positive_doc": "Cho thuê căn hộ The Grand Manhattan, Quận 1, 1PN, view thành phố, full nội thất, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, gần sông.",
+      "Nhà phố Quận 10, mặt tiền lớn."
+    ]
+  },
+  {
+    "query": "Mua nhà 1 trệt 1 lầu Bình Chánh",
+    "positive_doc": "Bán nhà 1 trệt 1 lầu Bình Chánh, xã Bình Hưng, 80m2, giá 3.2 tỷ.",
+    "negative_docs": [
+      "Cho thuê nhà nguyên căn Quận 7, 3PN.",
+      "Căn hộ dịch vụ Quận 1, gần trung tâm."
+    ]
+  },
+  {
+    "query": "Cần tìm đất nền xây nhà trọ Quận 9",
+    "positive_doc": "Bán đất nền Quận 9, đường Hoàng Hữu Nam, gần ĐH Giao thông Vận tải, 100m2, tiện xây trọ, giá 4.5 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Saigon Pearl, 1PN.",
+      "Nhà trọ Quận Phú Nhuận, giá 3 triệu."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 10 giá phải chăng",
+    "positive_doc": "Phòng trọ 18m2, hẻm Thành Thái, Quận 10, giá 2.7 triệu/tháng.",
+    "negative_docs": [
+      "Nhà phố Quận 1, mặt tiền đường.",
+      "Đất nền Long An, giá 1.2 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà mặt tiền chợ Quận 8",
+    "positive_doc": "Bán nhà mặt tiền chợ Phạm Thế Hiển, Quận 8, 1 trệt 2 lầu, tiện kinh doanh, giá 10 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, view đẹp.",
+      "Đất nông nghiệp Cần Giờ, diện tích nhỏ."
+    ]
+  },
+  {
+    "query": "Thuê biệt thự có 5 phòng ngủ Quận 2",
+    "positive_doc": "Cho thuê biệt thự compound An Phú, Quận 2, 5PN, có hồ bơi, giá 60 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ The Ascent Thảo Điền, 2PN.",
+      "Đất nông nghiệp Bình Phước, giá rẻ."
+    ]
+  },
+  {
+    "query": "Cần tìm căn hộ 2PN Quận Thủ Đức",
+    "positive_doc": "Cho thuê căn hộ Linh Tây Tower, Thủ Đức, 2PN, nội thất cơ bản, giá 8 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, diện tích lớn.",
+      "Nhà phố Tân Bình, giá 9 tỷ."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần đại học Mở TP.HCM",
+    "positive_doc": "Phòng trọ 18m2, hẻm Trần Quốc Thảo, Quận 3, gần ĐH Mở TP.HCM, giá 3 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Bình Thạnh, giá 20 triệu.",
+      "Đất thổ cư Long An, giá 1.5 tỷ."
+    ]
+  },
+  {
+    "query": "Mua đất nền khu dân cư Him Lam Kênh Tẻ",
+    "positive_doc": "Bán đất nền KDC Him Lam Kênh Tẻ, Quận 7, 100m2, sổ hồng, giá 12 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Masteri An Phú, 1PN.",
+      "Nhà trọ Quận Thủ Đức, giá sinh viên."
+    ]
+  },
+  {
+    "query": "Thuê nhà mặt tiền Quận 10 kinh doanh",
+    "positive_doc": "Cho thuê nhà mặt tiền đường Sư Vạn Hạnh, Quận 10, 1 trệt 2 lầu, tiện kinh doanh, giá 50 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ Vinhomes Central Park, 3PN.",
+      "Đất nền Long Thành, giá 2 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm căn hộ 2PN tại Quận 7",
+    "positive_doc": "Cho thuê căn hộ Midtown The Peak, Quận 7, 2PN, full nội thất, view hồ bơi, giá 30 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nông nghiệp Củ Chi, 5000m2.",
+      "Nhà phố Gò Vấp, giá 18 triệu."
+    ]
+  },
+  {
+    "query": "Mua nhà cấp 4 có sổ riêng Hóc Môn",
+    "positive_doc": "Bán nhà cấp 4 Hóc Môn, xã Xuân Thới Sơn, sổ hồng riêng, 75m2, giá 2.1 tỷ.",
+    "negative_docs": [
+      "Cho thuê nhà nguyên căn Phú Nhuận, 2PN.",
+      "Căn hộ Masteri Thảo Điền, 1PN."
+    ]
+  },
+  {
+    "query": "Đất nền khu dân cư tại Bình Dương",
+    "positive_doc": "Bán đất nền KDC Becamex, Thuận An, Bình Dương, 120m2, sổ hồng, giá 2.2 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, có bếp.",
+      "Nhà phố mặt tiền Quận 11, giá 10 tỷ."
+    ]
+  },
+  {
+    "query": "Thuê biệt thự có sân vườn Quận 7",
+    "positive_doc": "Cho thuê biệt thự compound Nam Long, Quận 7, 3PN, có sân vườn, giá 35 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ The Sun Avenue, 2PN.",
+      "Đất nông nghiệp Bình Phước, diện tích lớn."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần đại học Công nghệ TP.HCM",
+    "positive_doc": "Phòng trọ 18m2, hẻm Điện Biên Phủ, Bình Thạnh, gần ĐH Công nghệ TP.HCM, giá 2.9 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 2, giá 25 triệu.",
+      "Đất thổ cư Long An, giá 1.8 tỷ."
+    ]
+  },
+  {
+    "query": "Mua căn hộ 1PN tại Quận 3 giá dưới 3 tỷ",
+    "positive_doc": "Bán căn hộ Terra Royal, Quận 3, 1PN, nội thất cơ bản, giá 2.8 tỷ.",
+    "negative_docs": [
+      "Cho thuê nhà phố Quận 1, 3 lầu.",
+      "Đất nền KDC Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Đất mặt tiền đường lớn Quận 11",
+    "positive_doc": "Bán đất mặt tiền đường Lý Thường Kiệt, Quận 11, 80m2, tiện kinh doanh, giá 20 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 7, view sân golf.",
+      "Nhà trọ Quận 9, giá 2.5 triệu."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn có 3 phòng ngủ Quận 12",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Nguyễn Thị Đặng, Quận 12, 3PN, 3WC, giá 16 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, gần chợ.",
+      "Căn hộ 1PN Quận 7, view hồ bơi."
+    ]
+  },
+  {
+    "query": "Tìm nhà cấp 4 có sân sau Thủ Đức",
+    "positive_doc": "Bán nhà cấp 4 Thủ Đức, phường Linh Chiểu, có sân sau, 70m2, giá 4 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Landmark 81, 2PN.",
+      "Đất nông nghiệp Cần Giờ, diện tích nhỏ."
+    ]
+  },
+  {
+    "query": "Mua đất thổ cư Bến Lức Long An có sổ",
+    "positive_doc": "Bán đất thổ cư Bến Lức, Long An, xã Long Hiệp, 100m2, sổ hồng riêng, giá 1.2 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Sài Gòn Pearl, 3PN.",
+      "Nhà phố Hóc Môn, giá 4 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ Quận 3 có bếp riêng",
+    "positive_doc": "Phòng trọ 25m2, hẻm Nguyễn Thiện Thuật, Quận 3, có bếp riêng, giá 3.5 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 7, view sông.",
+      "Đất nền dự án Long An, giá 800 triệu."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ 3PN tại Quận 7",
+    "positive_doc": "Cho thuê căn hộ The Ascentia, Quận 7, 3PN, full nội thất, view thành phố, giá 28 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Dương, gần KCN.",
+      "Nhà phố Tân Bình, giá 9 tỷ."
+    ]
+  },
+  {
+    "query": "Mua căn hộ 2PN Vinhomes Grand Park",
+    "positive_doc": "Bán căn hộ Vinhomes Grand Park, Quận 9, 2PN, nội thất cơ bản, giá 2.5 tỷ.",
+    "negative_docs": [
+      "Cho thuê biệt thự Quận 2, có hồ bơi.",
+      "Đất nền Long An, giá 1.5 tỷ."
+    ]
+  },
+  {
+    "query": "Đất nền dự án mới ở Long Thành",
+    "positive_doc": "Bán đất nền dự án Century City, Long Thành, Đồng Nai, 90m2, sổ hồng, giá 1.7 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, giá 10 triệu.",
+      "Nhà phố Quận 12, giá 7 tỷ."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn làm văn phòng Quận 1",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Lê Thánh Tôn, Quận 1, 1 trệt 4 lầu, tiện làm VP, giá 80 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ Vinhomes Central Park, 2PN.",
+      "Đất nông nghiệp Củ Chi, diện tích 3000m2."
+    ]
+  },
+  {
+    "query": "Tìm căn hộ 1PN tại Quận 4",
+    "positive_doc": "Cho thuê căn hộ RiverGate, Quận 4, 1PN, full nội thất, view sông, giá 13 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nông nghiệp Củ Chi, giá 800 triệu.",
+      "Nhà phố Gò Vấp, giá 12 triệu."
+    ]
+  },
+  {
+    "query": "Mua đất nền khu dân cư tại Bình Chánh",
+    "positive_doc": "Bán đất nền KDC Green Riverside, Bình Chánh, 100m2, sổ riêng, giá 2.8 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, giá 15 triệu.",
+      "Nhà trọ Quận Thủ Đức, giá 2 triệu."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà phố 3 phòng ngủ Quận Tân Bình",
+    "positive_doc": "Cho thuê nhà phố đường Cộng Hòa, Tân Bình, 1 trệt 2 lầu, 3PN, giá 22 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ The Sun Avenue, 3PN.",
+      "Đất nông nghiệp Bình Phước, diện tích lớn."
+    ]
+  },
+  {
+    "query": "Phòng trọ giá 2 triệu ở Bình Thạnh",
+    "positive_doc": "Phòng trọ 15m2, hẻm Bùi Đình Túy, Bình Thạnh, giá 2 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ 2PN Quận 7, view sân golf.",
+      "Đất nền Biên Hòa, giá 3 tỷ."
+    ]
+  },
+  {
+    "query": "Mua đất nền dự án Củ Chi",
+    "positive_doc": "Bán đất nền dự án Bella Vista, Củ Chi, 80m2, sổ hồng, giá 900 triệu.",
+    "negative_docs": [
+      "Thuê nhà phố Quận 1, mặt tiền.",
+      "Căn hộ giá rẻ Quận 8."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ 2PN đầy đủ nội thất Quận 2",
+    "positive_doc": "Cho thuê căn hộ Gateway Thảo Điền, Quận 2, 2PN, full nội thất cao cấp, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Chánh, gần chợ.",
+      "Nhà phố Tân Phú, giá 12 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm nhà cấp 4 có gác lửng Thủ Đức",
+    "positive_doc": "Bán nhà cấp 4 Thủ Đức, phường Tam Phú, có gác lửng, 55m2, giá 3.2 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Landmark 81, 3PN.",
+      "Đất nông nghiệp Cần Giờ, diện tích lớn."
+    ]
+  },
+  {
+    "query": "Cần mua đất thổ cư ở Bến Cầu Tây Ninh",
+    "positive_doc": "Bán đất thổ cư Bến Cầu, Tây Ninh, gần cửa khẩu Mộc Bài, 100m2, sổ hồng, giá 950 triệu.",
+    "negative_docs": [
+      "Thuê căn hộ Sài Gòn Pearl, 1PN.",
+      "Nhà phố Hóc Môn, giá 2.5 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ Quận 4 có bếp riêng",
+    "positive_doc": "Phòng trọ 20m2, hẻm Đoàn Văn Bơ, Quận 4, có bếp riêng, giá 3 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 7, view hồ bơi.",
+      "Đất nền dự án Long An, giá 700 triệu."
+    ]
+  },
+  {
+    "query": "Thuê chung cư 3PN Quận 7 view sân golf",
+    "positive_doc": "Cho thuê căn hộ Green Valley, Quận 7, 3PN, view sân golf, full nội thất, giá 22 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, giá 1.2 tỷ.",
+      "Nhà phố Quận 1, mặt tiền lớn."
+    ]
+  },
+  {
+    "query": "Mua nhà mặt tiền đường nhỏ Quận 10",
+    "positive_doc": "Bán nhà mặt tiền đường Cao Thắng, Quận 10, 1 trệt 1 lầu, diện tích 30m2, giá 8 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ EHome 3, 2PN.",
+      "Đất vườn Đồng Nai, 1500m2."
+    ]
+  },
+  {
+    "query": "Cần tìm đất nền có sổ đỏ Bình Dương",
+    "positive_doc": "Bán đất nền Bình Dương, Thuận An, gần chợ Búng, 80m2, sổ đỏ riêng, giá 1.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, giá 9 triệu.",
+      "Nhà phố Quận 12, giá 5 tỷ."
+    ]
+  },
+  {
+    "query": "Thuê biệt thự có sân vườn Quận 2",
+    "positive_doc": "Cho thuê biệt thự compound Fideco, Quận 2, 4PN, có sân vườn, giá 45 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ The Ascent Thảo Điền, 1PN.",
+      "Đất nông nghiệp Bình Phước, giá rẻ."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ gần KCN Linh Trung Thủ Đức",
+    "positive_doc": "Phòng trọ 20m2, hẻm Linh Trung, Thủ Đức, gần KCN Linh Trung, giá 2.7 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 1, giá 30 triệu.",
+      "Đất thổ cư Long An, giá 1.1 tỷ."
+    ]
+  },
+  {
+    "query": "Căn hộ 1PN tại Quận 1 có view đẹp",
+    "positive_doc": "Cho thuê căn hộ Vinhomes Bason, Quận 1, 1PN, full nội thất, view sông, giá 20 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, giá 2 tỷ.",
+      "Nhà phố Phú Nhuận, giá 18 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà cấp 4 ở Cần Giuộc Long An",
+    "positive_doc": "Bán nhà cấp 4 Long An, Cần Giuộc, 1 trệt 1 lầu, 65m2, giá 1.6 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Masteri Thảo Điền, 2PN.",
+      "Đất nền Nhơn Trạch, giá 1.5 tỷ."
+    ]
+  },
+  {
+    "query": "Đất mặt tiền đường lớn Quận 12",
+    "positive_doc": "Bán đất mặt tiền đường Nguyễn Ảnh Thủ, Quận 12, tiện kinh doanh, 120m2, giá 10 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 7, view sông.",
+      "Nhà trọ Quận 9, giá 2.8 triệu."
+    ]
+  },
+  {
+    "query": "Thuê kho xưởng nhỏ ở Bình Chánh",
+    "positive_doc": "Cho thuê kho xưởng KCN Vĩnh Lộc 2, Bình Chánh, diện tích 300m2, có văn phòng, giá 20 triệu/tháng.",
+    "negative_docs": [
+      "Nhà ở xã hội Quận 12, 2PN.",
+      "Bán căn hộ The Sun Avenue, 1PN."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần chợ Hòa Hưng Quận 10",
+    "positive_doc": "Phòng trọ 18m2, hẻm Tô Hiến Thành, Quận 10, gần chợ Hòa Hưng, giá 2.9 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ 3PN Quận 7, view thành phố.",
+      "Đất nền sổ đỏ Bình Dương, giá 1.3 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà cấp 4 Hóc Môn diện tích lớn",
+    "positive_doc": "Bán nhà cấp 4 Hóc Môn, xã Xuân Thới Đông, sổ hồng riêng, diện tích 100m2, giá 2.5 tỷ.",
+    "negative_docs": [
+      "Thuê nhà nguyên căn Phú Nhuận, 3PN.",
+      "Căn hộ Masteri Thảo Điền, 3PN."
+    ]
+  },
+  {
+    "query": "Cần thuê căn hộ 2 phòng ngủ Quận 4",
+    "positive_doc": "Cho thuê căn hộ Millennium, Quận 4, 2PN, full nội thất, view sông, giá 18 triệu/tháng.",
+    "negative_docs": [
+      "Đất nền Long An, giá 1 tỷ.",
+      "Nhà phố mặt tiền Quận 11, giá 15 tỷ."
+    ]
+  },
+  {
+    "query": "Đất nền khu dân cư tại Hóc Môn",
+    "positive_doc": "Bán đất nền KDC Hoàng Hải, Hóc Môn, 80m2, sổ riêng, giá 2.2 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 5, có bếp.",
+      "Nhà phố Gò Vấp, tiện kinh doanh."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm Quận 8 dưới 5 tỷ",
+    "positive_doc": "Bán nhà hẻm đường Bùi Minh Trực, Quận 8, 1 trệt 1 lầu, diện tích 40m2, giá 4.8 tỷ.",
+    "negative_docs": [
+      "Cho thuê văn phòng Quận 3, diện tích lớn.",
+      "Đất nền Đồng Nai, khu dân cư."
+    ]
+  },
+  {
+    "query": "Thuê biệt thự sân vườn Quận 9",
+    "positive_doc": "Cho thuê biệt thự compound The Venica, Quận 9, 4PN, có sân vườn, giá 35 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ Masteri An Phú, 3PN.",
+      "Đất nông nghiệp Bình Phước, diện tích 500m2."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 11 cho sinh viên",
+    "positive_doc": "Phòng trọ 18m2, hẻm Lãnh Binh Thăng, Quận 11, gần trường học, giá 2.6 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 2, tiện ở.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Căn hộ cao cấp Quận 4",
+    "positive_doc": "Cho thuê căn hộ Icon 56, Quận 4, 2PN, view sông, full nội thất, giá 20 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, gần chợ.",
+      "Nhà phố Tân Phú, giá 8 tỷ."
+    ]
+  },
+  {
+    "query": "Mua đất nền dự án Long An",
+    "positive_doc": "Bán đất nền dự án Waterpoint, Long An, 100m2, sổ hồng, giá 1.9 tỷ.",
+    "negative_docs": [
+      "Thuê nhà phố Quận 1, mặt tiền.",
+      "Căn hộ giá rẻ Quận 8."
+    ]
+  },
+  {
+    "query": "Nhà nguyên căn Quận 10 giá dưới 15 triệu",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Cách Mạng Tháng Tám, Quận 10, 1 trệt 2 lầu, giá 14 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ The Ascent.",
+      "Đất nông nghiệp Bình Dương."
+    ]
+  },
+  {
+    "query": "Thuê mặt bằng kinh doanh Quận 5",
+    "positive_doc": "Cho thuê mặt bằng đường Trần Hưng Đạo, Quận 5, diện tích 80m2, tiện kinh doanh, giá 40 triệu/tháng.",
+    "negative_docs": [
+      "Nhà trọ Quận Thủ Đức.",
+      "Bán đất nền Long An, giá tốt."
+    ]
+  },
+  {
+    "query": "Cần mua nhà mặt tiền Quận 11",
+    "positive_doc": "Bán nhà mặt tiền đường Ông Ích Khiêm, Quận 11, tiện kinh doanh, 1 trệt 3 lầu, giá 15 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Celadon City.",
+      "Đất nền dự án Biên Hòa."
+    ]
+  },
+  {
+    "query": "Phòng trọ gần đại học Sài Gòn",
+    "positive_doc": "Phòng trọ 16m2, hẻm Nguyễn Trãi, Quận 5, gần ĐH Sài Gòn, giá 2.8 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Bình Thạnh, giá cao.",
+      "Đất thổ cư Long An, giá 1.8 tỷ."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ 2PN Quận 7 view hồ bơi",
+    "positive_doc": "Cho thuê căn hộ Phú Mỹ Hưng, Quận 7, 2PN, view hồ bơi, full nội thất, giá 18 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Dương, gần chợ.",
+      "Nhà phố Tân Bình, giá 9 tỷ."
+    ]
+  },
+  {
+    "query": "Đất nền sổ đỏ Đồng Nai giá dưới 1.5 tỷ",
+    "positive_doc": "Bán đất nền Biên Hòa, Đồng Nai, phường Trảng Dài, 100m2, sổ đỏ riêng, giá 1.3 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Saigon Pearl.",
+      "Nhà phố Gò Vấp, hẻm cụt."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm xe hơi Quận 1",
+    "positive_doc": "Bán nhà hẻm xe hơi đường Nguyễn Đình Chiểu, Quận 1, 1 trệt 3 lầu, diện tích 45m2, giá 25 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, giá 12 triệu.",
+      "Đất nông nghiệp Cần Giờ."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà xưởng lớn Thủ Đức",
+    "positive_doc": "Cho thuê nhà xưởng lớn đường Quốc lộ 1A, Thủ Đức, diện tích 1000m2, có văn phòng, giá 60 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Nhơn Trạch, Đồng Nai.",
+      "Căn hộ 2PN Quận 10, giá 15 triệu."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ có máy nước nóng Quận Bình Thạnh",
+    "positive_doc": "Phòng trọ 20m2, hẻm Xô Viết Nghệ Tĩnh, Bình Thạnh, có máy nước nóng, giá 3 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 8, giá rẻ.",
+      "Đất thổ cư Bình Dương, giá 1.5 tỷ."
+    ]
+  },
+  {
+    "query": "Mua căn hộ 1PN Masteri Thảo Điền",
+    "positive_doc": "Bán căn hộ Masteri Thảo Điền, Quận 2, 1PN, full nội thất, view sông, giá 3.2 tỷ.",
+    "negative_docs": [
+      "Cho thuê nhà phố Quận 1, 4 lầu.",
+      "Đất nền KDC Vĩnh Lộc A."
+    ]
+  },
+  {
+    "query": "Đất thổ cư Bình Phước gần KCN",
+    "positive_doc": "Bán đất thổ cư Chơn Thành, Bình Phước, gần KCN Becamex Bình Phước, 100m2, sổ hồng, giá 1.2 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, giá 8 triệu.",
+      "Nhà phố Tân Bình, hẻm lớn."
+    ]
+  },
+  {
+    "query": "Thuê nhà nguyên căn có 4 phòng ngủ Quận 7",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Nguyễn Hữu Thọ, Quận 7, 4PN, 4WC, giá 28 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, gần chợ.",
+      "Căn hộ 1PN Quận 7, view hồ bơi."
+    ]
+  },
+  {
+    "query": "Cần mua đất vườn tại Bình Phước",
+    "positive_doc": "Bán đất vườn Bình Phước, Chơn Thành, 2000m2, có thổ cư, giá 1.5 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Masteri An Phú, 2PN.",
+      "Nhà phố Quận 12, giá 9 tỷ."
+    ]
+  },
+  {
+    "query": "Phòng trọ Quận 11 có bếp",
+    "positive_doc": "Phòng trọ 22m2, hẻm Âu Cơ, Quận 11, có bếp nhỏ, giá 3.1 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 2, giá 10 triệu.",
+      "Đất nền Nhơn Trạch, giá 1.6 tỷ."
+    ]
+  },
+  {
+    "query": "Mua nhà phố Quận 12 có sân để xe",
+    "positive_doc": "Bán nhà phố đường Nguyễn Thị Kiểu, Quận 12, có sân để xe, 1 trệt 2 lầu, giá 7 tỷ.",
+    "negative_docs": [
+      "Cho thuê văn phòng Quận 5, diện tích nhỏ.",
+      "Đất nông nghiệp Long An, diện tích lớn."
+    ]
+  },
+  {
+    "query": "Căn hộ giá rẻ Quận 12",
+    "positive_doc": "Cho thuê căn hộ chung cư mini Quận 12, gần cầu vượt Quang Trung, 1PN, giá 4.5 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Chánh, sổ riêng.",
+      "Nhà phố Gò Vấp, mặt tiền."
+    ]
+  },
+  {
+    "query": "Đất mặt tiền đường Hiệp Bình Thủ Đức",
+    "positive_doc": "Bán đất mặt tiền đường Hiệp Bình, Thủ Đức, tiện kinh doanh, 100m2, giá 10 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Estella Heights, 2PN.",
+      "Nhà trọ Quận 9, giá sinh viên."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ 2PN gần trung tâm Quận 1",
+    "positive_doc": "Cho thuê căn hộ The Marq, Quận 1, 2PN, view thành phố, full nội thất, giá 35 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, sổ đỏ.",
+      "Nhà phố Bình Thạnh, hẻm lớn."
+    ]
+  },
+  {
+    "query": "Mua nhà cấp 4 Bình Chánh gần quốc lộ",
+    "positive_doc": "Bán nhà cấp 4 Bình Chánh, xã Tân Quý Tây, gần Quốc lộ 1A, 80m2, giá 2.5 tỷ.",
+    "negative_docs": [
+      "Cho thuê nhà nguyên căn Quận 7, giá 20 triệu.",
+      "Căn hộ dịch vụ Quận 1, giá cao."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ Quận 6 có máy lạnh",
+    "positive_doc": "Phòng trọ 18m2, hẻm Lò Gốm, Quận 6, có máy lạnh, giá 2.8 triệu/tháng.",
+    "negative_docs": [
+      "Nhà phố Quận 10, mặt tiền.",
+      "Đất nền Đồng Nai, khu dân cư."
+    ]
+  },
+  {
+    "query": "Cần tìm đất nền xây nhà trọ Đồng Nai",
+    "positive_doc": "Bán đất nền Trảng Bom, Đồng Nai, gần KCN Hố Nai, 100m2, tiện xây trọ, giá 1.5 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ The Sun Avenue, 2PN.",
+      "Nhà trọ Quận Phú Nhuận, giá 2.8 triệu."
+    ]
+  },
+  {
+    "query": "Mua nhà hẻm thông Quận 3 dưới 7 tỷ",
+    "positive_doc": "Bán nhà hẻm thông đường Nguyễn Thị Minh Khai, Quận 3, 1 trệt 2 lầu, 40m2, giá 6.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 7, view sân golf.",
+      "Đất thổ cư Bình Phước, giá 1.2 tỷ."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ officetel Quận 1",
+    "positive_doc": "Cho thuê căn hộ officetel Vinhomes Golden River, Quận 1, 35m2, full nội thất, giá 12 triệu/tháng.",
+    "negative_docs": [
+      "Bán nhà phố Quận 1, mặt tiền.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà ở xã hội Quận 12",
+    "positive_doc": "Cho thuê căn hộ nhà ở xã hội Quận 12, P. Hiệp Thành, 2PN, giá 4.2 triệu/tháng.",
+    "negative_docs": [
+      "Bán biệt thự Thảo Điền.",
+      "Đất nền dự án Long Thành."
+    ]
+  },
+  {
+    "query": "Mua đất nền ven sông Long An",
+    "positive_doc": "Bán đất nền ven sông Long An, Bến Lức, 150m2, sổ hồng, giá 2 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, gần chợ.",
+      "Nhà phố Gò Vấp, giá 9 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm nhà nguyên căn Quận 8 giá phải chăng",
+    "positive_doc": "Cho thuê nhà nguyên căn hẻm Bông Sao, Quận 8, 1 trệt 1 lầu, giá 8 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, 1500m2.",
+      "Căn hộ 3PN Quận 7, view sông."
+    ]
+  },
+  {
+    "query": "Phòng trọ có gác lửng Thủ Đức",
+    "positive_doc": "Phòng trọ 25m2, đường Đặng Văn Bi, Thủ Đức, có gác lửng, giá 3.2 triệu/tháng.",
+    "negative_docs": [
+      "Nhà phố Tân Bình, giá cao.",
+      "Đất nông nghiệp Bình Phước."
+    ]
+  },
+  {
+    "query": "Tìm nhà 4 phòng ngủ Quận 7",
+    "positive_doc": "Cho thuê nhà nguyên căn đường Phạm Hữu Lầu, Quận 7, 4PN, 4WC, giá 25 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ 1PN Quận 4, giá 9 triệu.",
+      "Đất nền Củ Chi, gần KCN."
+    ]
+  },
+  {
+    "query": "Mua căn hộ Q7 Boulevard",
+    "positive_doc": "Bán căn hộ Q7 Boulevard, Quận 7, 2PN, nội thất cơ bản, giá 2.6 tỷ.",
+    "negative_docs": [
+      "Cho thuê biệt thự Quận 2, sân vườn.",
+      "Đất nền Long An, giá rẻ."
+    ]
+  },
+  {
+    "query": "Đất thổ cư Củ Chi diện tích nhỏ",
+    "positive_doc": "Bán đất thổ cư Củ Chi, xã Tân Thông Hội, 80m2, sổ hồng, giá 1.1 tỷ.",
+    "negative_docs": [
+      "Cho thuê chung cư Cầu Giấy, 2PN.",
+      "Nhà mặt tiền Đống Đa, Hà Nội."
+    ]
+  },
+  {
+    "query": "Thuê nhà mặt tiền Quận 3 kinh doanh",
+    "positive_doc": "Cho thuê nhà mặt tiền đường Võ Văn Tần, Quận 3, 1 trệt 2 lầu, tiện kinh doanh, giá 60 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ Vinhomes Central Park, 1PN.",
+      "Đất nền Long Thành, 100m2."
+    ]
+  },
+  {
+    "query": "Tìm căn hộ 2 phòng ngủ tại Quận 2",
+    "positive_doc": "Cho thuê căn hộ Tropic Garden, Quận 2, 2PN, full nội thất, giá 18 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nông nghiệp Củ Chi, 2000m2.",
+      "Nhà phố Gò Vấp, giá 10 triệu."
+    ]
+  },
+  {
+    "query": "Mua đất nền khu dân cư tại Hóc Môn",
+    "positive_doc": "Bán đất nền KDC Hóc Môn, xã Xuân Thới Sơn, 100m2, sổ riêng, giá 2.5 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 1, giá 10 triệu.",
+      "Nhà trọ Quận Thủ Đức, giá sinh viên."
+    ]
+  },
+  {
+    "query": "Cần thuê nhà phố 3 phòng ngủ Quận Phú Nhuận",
+    "positive_doc": "Cho thuê nhà phố đường Nguyễn Văn Đậu, Phú Nhuận, 1 trệt 2 lầu, 3PN, giá 20 triệu/tháng.",
+    "negative_docs": [
+      "Bán căn hộ The Sun Avenue, 1PN.",
+      "Đất nông nghiệp Bình Phước, 1000m2."
+    ]
+  },
+  {
+    "query": "Phòng trọ giá 1.8 triệu ở Gò Vấp",
+    "positive_doc": "Phòng trọ 12m2, hẻm Lê Đức Thọ, Gò Vấp, giá 1.8 triệu/tháng.",
+    "negative_docs": [
+      "Căn hộ 2PN Quận 7, view sông.",
+      "Đất nền Biên Hòa, giá cao."
+    ]
+  },
+  {
+    "query": "Mua đất nền dự án Amata Biên Hòa",
+    "positive_doc": "Bán đất nền dự án Amata, Biên Hòa, Đồng Nai, 120m2, sổ hồng, giá 2.8 tỷ.",
+    "negative_docs": [
+      "Thuê nhà phố Quận 1, mặt tiền.",
+      "Căn hộ giá rẻ Quận 8."
+    ]
+  },
+  {
+    "query": "Thuê căn hộ đầy đủ nội thất Quận 2",
+    "positive_doc": "Cho thuê căn hộ Thảo Điền Pearl, Quận 2, 2PN, full nội thất cao cấp, giá 20 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Bình Chánh, gần KCN.",
+      "Nhà phố Tân Phú, giá 10 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm nhà cấp 4 có sân thượng Thủ Đức",
+    "positive_doc": "Bán nhà cấp 4 Thủ Đức, phường Bình Thọ, có sân thượng, 50m2, giá 3.8 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ Landmark 81, 2PN.",
+      "Đất nông nghiệp Cần Giờ."
+    ]
+  },
+  {
+    "query": "Cần mua đất thổ cư ở Bến Cát Bình Dương có thổ cư",
+    "positive_doc": "Bán đất thổ cư Bến Cát, Bình Dương, gần chợ Bến Cát, 100m2, sổ hồng, giá 1.5 tỷ.",
+    "negative_docs": [
+      "Thuê căn hộ Sài Gòn Pearl, 2PN.",
+      "Nhà phố Hóc Môn, giá 3.5 tỷ."
+    ]
+  },
+  {
+    "query": "Tìm phòng trọ Quận 5 có gác lửng",
+    "positive_doc": "Phòng trọ 25m2, hẻm Cao Đạt, Quận 5, có gác lửng, giá 3.8 triệu/tháng.",
+    "negative_docs": [
+      "Nhà nguyên căn Quận 7, view sông.",
+      "Đất nền dự án Long An, giá 900 triệu."
+    ]
+  },
+  {
+    "query": "Thuê chung cư 2PN Quận 4 view cầu",
+    "positive_doc": "Cho thuê căn hộ The River Thu Thiem, Quận 2, 2PN, view cầu Thủ Thiêm, full nội thất, giá 35 triệu/tháng.",
+    "negative_docs": [
+      "Bán đất nền Củ Chi, giá rẻ.",
+      "Nhà phố Quận 1, mặt tiền."
+    ]
+  },
+  {
+    "query": "Mua nhà mặt tiền Quận Tân Bình dưới 10 tỷ",
+    "positive_doc": "Bán nhà mặt tiền đường Bàu Cát, Tân Bình, 1 trệt 2 lầu, diện tích 60m2, giá 9.8 tỷ.",
+    "negative_docs": [
+      "Cho thuê căn hộ EHome 3, 1PN.",
+      "Đất vườn Đồng Nai, 2000m2."
+    ]
+  },
+  {
+    "query": "Cần tìm đất nền Bình Tân giá tốt",
+    "positive_doc": "Bán đất nền Bình Tân, đường Vành Đai Trong, 90m2, sổ đỏ riêng, giá 4 tỷ.",
+    "negative_docs": [
+      "Căn hộ dịch vụ Quận 3, giá 8 triệu.",
+      "Nhà phố Quận 12, giá 6.5 tỷ."
+    ]
+  }
+]

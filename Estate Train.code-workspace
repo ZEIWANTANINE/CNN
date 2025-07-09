@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Estate Train",
+			"path": "."
+		},
+		{
+			"name": "archive",
+			"path": "../archive"
+		}
+	],
+	"settings": {}
+}
